@@ -140,6 +140,16 @@ def article(post):
     shell(p,title(post),body,'news',plain(post['excerpt']['rendered'])[:180])
 def about():
     p='about/index.html';source=next(x for x in PAGES if x['id']==88)
+    source=dict(source,content=dict(source['content']))
+    history=BeautifulSoup(source['content']['rendered'],'html.parser')
+    presidents=next(t for t in history.find_all('table') if any(r.find('td') and r.find('td').get_text(strip=True)=='20' for r in t.find_all('tr')))
+    additions=json.loads((ROOT/'content/presidents-additions.json').read_text(encoding='utf-8'))['rows']
+    for values in additions:
+        row=history.new_tag('tr')
+        for value in values:
+            cell=history.new_tag('td');cell.string=value;row.append(cell)
+        (presidents.find('tbody') or presidents).append(row)
+    source['content']['rendered']=str(history)
     timeline=[('2528','เริ่มต้นการรวมตัว','ประชุมนักเรียนเก่าญี่ปุ่นในเชียงใหม่ เมื่อวันที่ 24 สิงหาคม 2528'),('2530','เปิดสำนักงานภาคเหนือ','พิธีเปิดสำนักงานภาคเหนืออย่างเป็นทางการ เมื่อวันที่ 22 กุมภาพันธ์ 2530'),('2539','บ้านของสมาคมในปัจจุบัน','เปิดสำนักงานถนนสามล้าน หน้าวัดพระสิงห์ เมื่อวันที่ 7 เมษายน 2539'),('2559','สาขาภาคเหนือ','จดทะเบียนแก้ไขข้อบังคับเพิ่มเติมให้มีสำนักงานสมาคมสาขาภาคเหนือ เมื่อวันที่ 3 มิถุนายน 2559')]
     body=heading(p,'เรื่องราวของสมาคม','มิตรภาพที่เริ่มต้นจากการพบปะ และเติบโตผ่านความผูกพันระหว่างไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="vision"><span class="eyebrow">วิสัยทัศน์</span><h2>ศูนย์กลางกิจกรรมนักเรียนเก่าญี่ปุ่น ชาวไทย<br>และเครือข่ายในอาเซียน</h2><p>เป็นเลิศด้านการเรียนการสอนภาษาและวัฒนธรรมญี่ปุ่นในประเทศไทย</p></div><div class="timeline">'+''.join(f'<div><strong>{y}</strong><h3>{t}</h3><p>{d}</p></div>' for y,t,d in timeline)+f'</div><div class="center-actions">{link(p,"committee/","รู้จักคณะกรรมการบริหาร ↗","button")}</div><details class="history-full" open><summary>ประวัติสมาคมฉบับเต็มและรายนามประธานในอดีต</summary><p class="archive-notice">บทความประวัติจากเว็บไซต์เดิม เก็บสำนวนและข้อมูลตามต้นฉบับ</p><div class="prose">{sanitize(source["content"]["rendered"],p)}</div></details></div></section>'
     shell(p,'เกี่ยวกับสมาคม',body,'about')
