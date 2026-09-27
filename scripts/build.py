@@ -167,8 +167,12 @@ def committee():
         table=label.find_next_sibling()
         if match and table and table.find('table'):terms.append((match.group(1),match.group(2),table))
     old=''.join(f'<h3>ประจำปี {a}–{b}</h3>'+sanitize(str(t),p) for a,b,t in sorted(terms,key=lambda x:x[0],reverse=True))
-    entries=''.join(f'<article class="person"><span class="person-number">{i:02}</span><div><h2>{esc(n)}</h2><p>{esc(r)}</p></div></article>' for i,(n,r) in enumerate(COMMITTEE,1))
-    body=heading(p,'คณะกรรมการบริหาร','ร่วมขับเคลื่อนสมาคม เชื่อมโยงสมาชิก และสานสัมพันธ์ไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="section-title"><div><span class="eyebrow">คณะกรรมการชุดปัจจุบัน</span><h2>ผู้ร่วมดูแลบ้านแห่งมิตรภาพ</h2></div><span class="count-badge">15 ท่าน</span></div><div class="people-grid">{entries}</div><details class="history-full"><summary>รายนามคณะกรรมการวาระก่อนหน้า (เรียงจากวาระล่าสุด)</summary><div class="prose">{old}</div></details></div></section>'
+    def person(n,r,cls=''):return f'<article class="person{cls}"><h3>{" ".join(f"<span>{esc(w)}</span>" for w in n.split())}</h3><p>{esc(r)}</p></article>'
+    lead=[x for x in COMMITTEE if x[1]=='ประธาน'];vice=[x for x in COMMITTEE if x[1].startswith('รองประธาน')]
+    board=sorted([x for x in COMMITTEE if x not in lead+vice],key=lambda x:not x[1].startswith('เลขาธิการ'))
+    tier=lambda label,cls,people,extra='':f'<div class="org-tier {cls}">{f"<span class=org-label>{label}</span>" if label else ""}<div class="org-row">{"".join(person(n,r,extra) for n,r in people)}</div></div>'
+    entries=tier('','org-lead',lead,' person-lead')+tier(f'รองประธาน {len(vice)} ท่าน','org-vice',vice)+tier(f'เลขาธิการและกรรมการบริหาร {len(board)} ท่าน','org-board',board)
+    body=heading(p,'คณะกรรมการบริหาร','ร่วมขับเคลื่อนสมาคม เชื่อมโยงสมาชิก และสานสัมพันธ์ไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="section-title"><div><span class="eyebrow">คณะกรรมการชุดปัจจุบัน</span><h2>ผู้ร่วมดูแลบ้านแห่งมิตรภาพ</h2></div><span class="count-badge">15 ท่าน</span></div><div class="org-chart">{entries}</div><details class="history-full"><summary>รายนามคณะกรรมการวาระก่อนหน้า (เรียงจากวาระล่าสุด)</summary><div class="prose">{old}</div></details></div></section>'
     shell(p,'คณะกรรมการบริหาร',body,'about')
 def school():
     p='school/index.html';source=next(x for x in PAGES if x['id']==32)
