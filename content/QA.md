@@ -27,3 +27,12 @@
 - Custom domain, DNS and GitHub Pages publication settings have not been changed.
 
 Run `python scripts/build.py` followed by `python scripts/check.py` after content or template changes. See `validation-report.json`, `build-report.json` and `source/migration-report.json` for machine-readable evidence.
+
+## Design revision following user review
+
+- Unified all HTML typography to Noto Sans Thai. Body 17–18 px; most labels, dates and supporting text 14–16 px.
+- Changed primary colors to Japan-inspired royal blue and azure, with pale blue, cyan, soft lavender and muted gold accents. Gradients added to the hero, page headings, exam section and contact section. Original logo colors preserved.
+- Replaced the 2017 hero photograph with the association's merit-making and Lanna Songkran gathering on 20 April 2024, from source post 731. The image is displayed in its full native aspect ratio.
+- Converted Thai numerals in rendered text to Arabic numerals; original source snapshots and image/PDF artwork remain intact. Link URLs are not transformed.
+- Rechecked home, about, news, committee, school, journal, contact and news detail at 360 / 768 / 1024 / 1440 px: no horizontal overflow in all 32 cases, with HTML standards mode verified. Displayed text in these pages contained no Thai numerals.
+- Screenshot capture still times out; this remains a functional/geometry verification rather than a completed visual screenshot review.
