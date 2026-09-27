@@ -87,7 +87,8 @@ def sanitize(raw,path):
             if key.startswith('on') or key in ['style','srcset','sizes','width','height','class','id']:del el[key]
         if el.name=='iframe':
             src=el.get('src','')
-            a=soup.new_tag('a',href=src);a.string='เปิดเอกสารหรือสื่อประกอบ';a['class']='button outline';a['target']='_blank';a['rel']='noopener noreferrer';el.replace_with(a);continue
+            if urlparse(src).netloc in ['www.ojsatn.or.th','ojsatn.or.th'] and '/embed/' in src:el.decompose();continue
+            a=soup.new_tag('a',href=src);a.string='เปิดแผนที่ใน Google Maps' if 'google.com/maps' in src else 'เปิดเอกสารหรือสื่อประกอบ';a['class']='button outline';a['target']='_blank';a['rel']='noopener noreferrer';el.replace_with(a);continue
         if el.name=='img':
             original=el.get('src','');local=asset(original)
             if 'fbcdn.net/images/emoji.php/' in original:
@@ -149,6 +150,8 @@ def about():
         for value in values:
             cell=history.new_tag('td');cell.string=value;row.append(cell)
         (presidents.find('tbody') or presidents).append(row)
+    body_rows=presidents.find('tbody') or presidents
+    for row in list(body_rows.find_all('tr',recursive=False))[::-1]:body_rows.append(row.extract())
     source['content']['rendered']=str(history)
     timeline=[('2528','เริ่มต้นการรวมตัว','ประชุมนักเรียนเก่าญี่ปุ่นในเชียงใหม่ เมื่อวันที่ 24 สิงหาคม 2528'),('2530','เปิดสำนักงานภาคเหนือ','พิธีเปิดสำนักงานภาคเหนืออย่างเป็นทางการ เมื่อวันที่ 22 กุมภาพันธ์ 2530'),('2539','บ้านของสมาคมในปัจจุบัน','เปิดสำนักงานถนนสามล้าน หน้าวัดพระสิงห์ เมื่อวันที่ 7 เมษายน 2539'),('2559','สาขาภาคเหนือ','จดทะเบียนแก้ไขข้อบังคับเพิ่มเติมให้มีสำนักงานสมาคมสาขาภาคเหนือ เมื่อวันที่ 3 มิถุนายน 2559')]
     body=heading(p,'เรื่องราวของสมาคม','มิตรภาพที่เริ่มต้นจากการพบปะ และเติบโตผ่านความผูกพันระหว่างไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="vision"><span class="eyebrow">วิสัยทัศน์</span><h2>ศูนย์กลางกิจกรรมนักเรียนเก่าญี่ปุ่น ชาวไทย<br>และเครือข่ายในอาเซียน</h2><p>เป็นเลิศด้านการเรียนการสอนภาษาและวัฒนธรรมญี่ปุ่นในประเทศไทย</p></div><div class="timeline">'+''.join(f'<div><strong>{y}</strong><h3>{t}</h3><p>{d}</p></div>' for y,t,d in timeline)+f'</div><div class="center-actions">{link(p,"committee/","รู้จักคณะกรรมการบริหาร","button")}</div><details class="history-full" open><summary>ประวัติสมาคมฉบับเต็มและรายนามประธานในอดีต</summary><p class="archive-notice">บทความประวัติจากเว็บไซต์เดิม เก็บสำนวนและข้อมูลตามต้นฉบับ</p><div class="prose">{sanitize(source["content"]["rendered"],p)}</div></details></div></section>'
@@ -157,9 +160,15 @@ def about():
     shell(p,'เกี่ยวกับสมาคม',body,'about')
 def committee():
     p='committee/index.html';source=next(x for x in PAGES if x['id']==804)
-    old=sanitize(source['content']['rendered'],p).replace('วาระปัจจุบัน','วาระในเอกสารเดิม')
+    terms=[];soup=BeautifulSoup(source['content']['rendered'],'html.parser')
+    for label in soup.find_all('p',recursive=False):
+        text=re.sub(r'\s+','',label.get_text())
+        match=re.fullmatch(r'ประจำปี(\d{4})[-–](\d{4})',text)
+        table=label.find_next_sibling()
+        if match and table and table.find('table'):terms.append((match.group(1),match.group(2),table))
+    old=''.join(f'<h3>ประจำปี {a}–{b}</h3>'+sanitize(str(t),p) for a,b,t in sorted(terms,key=lambda x:x[0],reverse=True))
     entries=''.join(f'<article class="person"><span class="person-number">{i:02}</span><div><h2>{esc(n)}</h2><p>{esc(r)}</p></div></article>' for i,(n,r) in enumerate(COMMITTEE,1))
-    body=heading(p,'คณะกรรมการบริหาร','ร่วมขับเคลื่อนสมาคม เชื่อมโยงสมาชิก และสานสัมพันธ์ไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="section-title"><div><span class="eyebrow">คณะกรรมการชุดปัจจุบัน</span><h2>ผู้ร่วมดูแลบ้านแห่งมิตรภาพ</h2></div><span class="count-badge">15 ท่าน</span></div><div class="people-grid">{entries}</div><details class="history-full"><summary>รายนามคณะกรรมการวาระก่อนหน้า</summary><div class="prose">{old}</div></details></div></section>'
+    body=heading(p,'คณะกรรมการบริหาร','ร่วมขับเคลื่อนสมาคม เชื่อมโยงสมาชิก และสานสัมพันธ์ไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="section-title"><div><span class="eyebrow">คณะกรรมการชุดปัจจุบัน</span><h2>ผู้ร่วมดูแลบ้านแห่งมิตรภาพ</h2></div><span class="count-badge">15 ท่าน</span></div><div class="people-grid">{entries}</div><details class="history-full"><summary>รายนามคณะกรรมการวาระก่อนหน้า (เรียงจากวาระล่าสุด)</summary><div class="prose">{old}</div></details></div></section>'
     shell(p,'คณะกรรมการบริหาร',body,'about')
 def school():
     p='school/index.html';source=next(x for x in PAGES if x['id']==32)
