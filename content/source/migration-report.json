@@ -1,0 +1,141 @@
+{
+  "counts": {
+    "posts": 118,
+    "pages": 6,
+    "categories": 5,
+    "media": 396
+  },
+  "asset_candidates": 1351,
+  "downloaded_assets": 1341,
+  "failures": [
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/JLPTresult1_65-1024x576.jpg",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/JLPTresult1_65-1024x576.jpg"
+    },
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebook.png",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebook.png"
+    },
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebookbanner.jpg",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebookbanner.jpg"
+    },
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/line.jpeg",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/line.jpeg"
+    },
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/linebanner.jpg",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/linebanner.jpg"
+    },
+    {
+      "url": "http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/poster_jlpt2022-724x1024.jpg",
+      "error": "404 Client Error: Not Found for url: https://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/poster_jlpt2022-724x1024.jpg"
+    },
+    {
+      "url": "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF",
+      "error": "404 Client Error: Not Found for url: https://www.ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF"
+    },
+    {
+      "url": "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF?fbclid=IwAR2ai8ZNwZBZe7NgeNDJmRRq-yYGAaQAiEa-2UiV0o05J7Qn1zKeUwqxliw",
+      "error": "404 Client Error: Not Found for url: https://www.ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF?fbclid=IwAR2ai8ZNwZBZe7NgeNDJmRRq-yYGAaQAiEa-2UiV0o05J7Qn1zKeUwqxliw"
+    },
+    {
+      "url": "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf",
+      "error": "404 Client Error: Not Found for url: https://www.ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf"
+    },
+    {
+      "url": "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf?fbclid=IwAR3fN-nU0UjYy4zB-V8XcTuPVsXpxeli3rqZNK-jPuFk1QWF7EycSIkcwOM",
+      "error": "404 Client Error: Not Found for url: https://www.ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf?fbclid=IwAR3fN-nU0UjYy4zB-V8XcTuPVsXpxeli3rqZNK-jPuFk1QWF7EycSIkcwOM"
+    }
+  ],
+  "external_links": [
+    "http://gmpg.org/xfn/11",
+    "http://www.facebook.com/ojsatn",
+    "http://www.jlpt-overseas.jp/onlineresults",
+    "http://www.jlptonlinethailand.com",
+    "https://cmu-th.zoom.us/j/95255619250",
+    "https://docs.google.com/forms/d/e/1FAIpQLSfi2lSSyCb50DdIgwKS21vkAkOtt23pD9l1E5J30WYZmiLvAg/viewform",
+    "https://drive.google.com/file/d/11lYDuVQCAoKLNtXuua88cM2vLHTX8jZ1/view?usp=sharing&fbclid=IwAR2IC-2CBDhDy8cvGyGvNTkolUcVk9uMfCy8n7PPOVztFsE-ab7ni0Z6dXk",
+    "https://drive.google.com/file/d/11yLJMcnhZgdYK_BHgEQYCNfhWTngjAOR/view?fbclid=IwAR2lSGhMzs-ckqFOJEWEhHl1eQa-IHzIXKii3eS_bxwSVHsqMFBRG8z_Cyk",
+    "https://drive.google.com/file/d/130cS8g6lzrSVDaG84QvMzmoJJkXSrpsc/view?fbclid=IwZXh0bgNhZW0CMTAAAR1IXWfy0KSEPsPeC5rMA1F2EeY63ohKVLIhEoFszv2iZ37_Mv2A0Qj2Djk_aem_AbKtTTxBXEjk_CynVQ0YpA4KFMiilCe2-B_XR1lEn_vi_fFz5D_ZsgmnVSKVB9t6K2VcBHtIKBUU7vRq7bHcRIx3",
+    "https://drive.google.com/file/d/161XCtHK3-Hp9JZK22BJVA_MaNrub7kwX/view",
+    "https://drive.google.com/file/d/162uefnfttb2eaQ-eAu6zBK6cxKQnFzJC/view",
+    "https://drive.google.com/file/d/17Ir2ba-HmyUKiQEIlN0QJcPS_o1sARcM/view",
+    "https://drive.google.com/file/d/17OHwqeXzC9S1zt0tHxiCOTA4JPBdSf3m/view?fbclid=IwAR37STvc9iP9PlLEz6NRC1mxcjmwP0s7oBsOsnC-yvqR3unD9774wMPrzpU",
+    "https://drive.google.com/file/d/1EHeS6lpWUeR2U06H0-mOe8tUslXN11BW/view?fbclid=IwAR0aUHUSs03ciY53MtRrA55HVNKuSfjihRM_WV28BygeAiIP9JbioD0cXz0",
+    "https://drive.google.com/file/d/1GHCnuWoYM9FSZtsHLKtQlSFneON8SVXT/view?fbclid=IwAR1q4d-vjjiUBRBTpn9W9iM4PSxDMhTV4ESJWcfxo6rO3QjWkCrVYTg1Gds",
+    "https://drive.google.com/file/d/1GnV0vG04DHSkTQCY_IWzRc4GxmZLyCk1/view?fbclid=IwAR2AYReXvuNiidE9TzQrDWcGHRPBB9-ov5nLk42Kae_ZRABpXm3tXkFnSRM",
+    "https://drive.google.com/file/d/1IH9osQ0kAUrQSo62FTc_sWPU1F9HeELz/view",
+    "https://drive.google.com/file/d/1IOLEXxluzPJaVAWC7d7q0UBUAk59VncC/view?fbclid=IwAR1xVwXuWqFjz2ttWIGEhhNQNpaXTGDABtttNFWl6gDTuN--BiGZU1AZCRA",
+    "https://drive.google.com/file/d/1N2nw50RxmgqX0F0wDptNVLm5lVsfSOKL/view?fbclid=IwAR34UZ8-_SRBAJ4IW3NeTGoxuGORfoczbJaBbTS6uAb0m0n0wr3ub3jApxc",
+    "https://drive.google.com/file/d/1QdS6saYpEqxdYNB84dLXY1-L_MUNpau5/view?fbclid=IwZXh0bgNhZW0CMTAAAR1-Xv4KJ6c_CMddbmBRYSR6yR45BV0ln_1949PCvoqKpY3dvb6rDNMRJiU_aem_AbKu67W8NJiwWY7GinE3eH45EsJoyAqPJaVPphkPIMbVf6hT5LeVfHfxIJAZEfTaMzb-rKnVT4ZaxBnBVQV5sJTX",
+    "https://drive.google.com/file/d/1SJQYN-4CpXNL3gy5TuRozMNvPN_MP6X3/view?fbclid=IwZXh0bgNhZW0CMTAAAR15lYaDyOf4AXSvzOoMCpb4UTJT0nu8AZ6XbOVa009nIoz4MelM4GmCgVg_aem_AbLzFKPEZ8mmR3XmZGt4g0zaraH9QgvAJ3O-pczT-hNdmFaMCoYIR7B78J-rgpLX-hE5za8pw-XEvfjVY6Bl9UFO",
+    "https://drive.google.com/file/d/1Zkqpd4ECqnPmKLVqzUGTAE0vTE49Oq7H/view?fbclid=IwAR1HNwwyFunqLeDhUqNuftQQcGuy3p_sWD5jrYTZtce7myiNCi3TlyJd9SE",
+    "https://drive.google.com/file/d/1eUI4mNX5L6fCpqxWrVvC4oX1551IJpJO/view?fbclid=IwAR2pCg7XUlO_kAQS7fp859CoJrkVTh6dUSCq6q4mKaxCUfQV8-Q5tpGeTxk",
+    "https://drive.google.com/file/d/1efEekrIxRtCnzOv5tjnMHNZ08537l_bI/view?fbclid=IwAR11BrfOf07w3ngqnK-5QJhShIMPTQS1SvdaA8O86muG2vJ3G6opOAJM_as",
+    "https://drive.google.com/file/d/1fcp7ioDOg4X7gwI-aM4Lfj7tshscYC8v/view?fbclid=IwAR2bt04XYWpPiycOHJlQEBJzIrfjJtouotcuiJN5EHYQAu3ZPs-1CijywE0",
+    "https://drive.google.com/file/d/1gD8vqEN80CC_L-8mOigsl1-oYD04Su5e/view?fbclid=IwAR1nS9OtmR8Oz4ZOTqc1uCaqCHUDbNCqOAkZDeA2-OgYplu442SxmJP69Wg",
+    "https://drive.google.com/file/d/1idvFpofd1TJFmzJsdF7NeIbYotuE2XwV/view",
+    "https://drive.google.com/file/d/1nd9DdrdRi5b299JmPlSHA4kDd-b2wJMe/view?fbclid=IwAR0tC_OOsSVBHK_i3xuvNZ9nGdx8aYBrkvmmuS5LihmAKDZMXh5LxsPNLNM",
+    "https://drive.google.com/file/d/1oKJQWGVqpWtj8X8Rf0guhimb5RFliS9s/view?fbclid=IwZXh0bgNhZW0CMTAAAR0QY45jFUhSj3mZgIOESFyAv75IDJILbjdThmTNYTG8wWQ3koQ9smeefW8_aem_AbKAlLI2cDnjmVFj1KbXdDid66Om5WjiVdHYORn4mDBHXTmuVwOBtsnF8hT9mHUFAdOcRzkJFaOSDIE2GmYrTKze",
+    "https://drive.google.com/file/d/1r-pTyhnMZ5DJn58TrdmSggt57S0cAg9V/view?fbclid=IwZXh0bgNhZW0CMTAAAR1PYbEwzaM99hkqN5LOgH4ayAV4tgwErB8MHpsWGWe4uWuRzlUg0aUhnkA_aem_AbJSRHqM9ZUzLz_lqt0EDeQ3U19HkpRTsddbfe59E98yf45-nxLZPzob5T3flOEWHyWU_bC62wMQjp5Yss8vC_s3",
+    "https://drive.google.com/file/d/1wwqoIPaTpLBaeD9pud06hZBxjsSJTUNt/view?fbclid=IwAR25-290253IKB1VP9I72Wvq_hHKTXjRp8uTBzkxsGEMICY5slJqzs2Fu3I",
+    "https://fonts.googleapis.com",
+    "https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C300i%2C400%2C400i%2C700%7CRoboto%3A300%2C400%2C500%2C700%7CLato%3A300%2C400%2C500%2C700&subset=latin%2Clatin-ext",
+    "https://forms.gle/jCB5DesdQ8inSuia8?fbclid=IwAR0B3SPUbgDw046aSl5ieUwG2ItZINyFDm92hy2QdrSrDW1TzBRJqiwAPHM",
+    "https://goo.gl/Kybzqd",
+    "https://heyzine.com/flip-book/236353c239.html",
+    "https://heyzine.com/flip-book/437ecb4207.html",
+    "https://heyzine.com/flip-book/5a5adc928a.html",
+    "https://heyzine.com/flip-book/835ddbe28d.html",
+    "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ojsatn.or.th%2F%3Ffbclid%3DIwAR0azwB9_APHjYna4W86aRseGlKEIUFuA9lxwwgb8NdVVR7fZAZfEnjJNlE&h=AT1_e3pug6csnW6yFzTkxyB1QqKKOvHWbbJgWLgBjN9gNGyXkU3NgtjElnjrvEW3zxqKg6kW5sRLHXEVi8DDnuBXbddiOA0Ddt4JfpTIGq9N8npEeIJjn9PMpUEujnJn3evr&__tn__=-UK-R&c[0]=AT1d22LBBkoslxebT0Xtqy0DlBxdsWGBKQEKOcJ6LGd8wh5jFPQa2edRP-NKBLPi3fQNm9-NeDmDVYIrSziTcI-iUQQa8im93jJWF9JFtOmARxejPkMEHI0fctl5Pqv3FcWRHHOVEL9Cs0jJKnuw2KNUP3dpZ08WTfxcKc8f4aeP1hXa1rhKqURj2lE6a_FogCIQY1zaA9vt",
+    "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ojsatn.or.th%2F%3Ffbclid%3DIwAR2GNerK3eVU8CxbtJzqyVYCGGR_voD1FBSzCtKnBi5ZxiydGUAnNTnabYc&h=AT2y5rI9ia77VzfYbD9KPD0B47sQ37KpjuI92-q44cWRyGwaWtqEWFVeG1MYtqlKjXCjBx8DeNFGka1nADpbm9LC17NCz6F9_Kl6OdmcsMkYCc5iBcc9NKyE-7agB40lMWioPhtoWUUNrvcAnF2b&__tn__=-UK-R&c[0]=AT0FP0RWiLSrZag-aYxKqBXvbwUZ-UZpqflvGQlpgF9EnD7HrQHYFkdPZnTuuyRfiL0dT2oRkCVcShXBRRxRSORz_uJ0ueCBcwvfsRqqa6HVR1Rxi_osRhgeEenE8uwQdWiNx38OJhlx4Y6Y43NrcopdMEj2DuMGhHHVEzHtWUPBhXQTVdO6yegZ3BHfw-XpA9OigIKwXtY3",
+    "https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2FGbFBYrGEbpN4ewvA6%3Ffbclid%3DIwAR1Dnwsx0_ZbHc01RRBPiLkZJVgFNXmVtEhkCawnOgFLDCRad1RPDWvSO74&h=AT2jmIRzqLLuE393xTbcC0dpEAs2NDQ1iMNo7xFcAmEuASkSuuml505DDNXgJpF_EpQ2jV5671eD9ydwWV22iT0sNmcgei8BgvkMd7NHrrpxyzhi6ms-UXg8TQE7frj-dnC4rMs3Vmt5UjlKxvuw&__tn__=-UK-R&c[0]=AT2mKxi_LEsHxEGnoCzGDtgYEMM0ayPhgobb4VVj2NcHFfnmjlOsKhP-07y7exiW5BtqhEiwTGablpSrmFRrrQAbR4Re0l4IFA61H8ylqDgTJUntn8m5AuOlwF17EmHRbngnoUSGdw8mlU0ZeBwlbRF9m8fMUSVN2xb3iZ2uqX6_5eCVe1czdZcJEJbDx-DF2T8BK5xzmad0ZUMG9TKwVEoJZeHamF5evMsG5A",
+    "https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2FsnPrShKYq5ibgkrp6%3Ffbclid%3DIwAR11edOnFAqxSwgZnpuDq7MZM76HVAL5BdW_GUsFdIGenUo5vMg98e5caa8&h=AT2HAlM0VYneKAvJtHMBEMCwtO14skbTPK9zSPqJ7npH16DPr0gNgarERf8j_2DVnf9gsSI5wZ9e3jhV27sTYWAMLKSmSvzvhqV_ez2ui2K-M2OMEJcTVUxcw4GA5JDnHTcU&__tn__=-UK-R&c[0]=AT1d22LBBkoslxebT0Xtqy0DlBxdsWGBKQEKOcJ6LGd8wh5jFPQa2edRP-NKBLPi3fQNm9-NeDmDVYIrSziTcI-iUQQa8im93jJWF9JFtOmARxejPkMEHI0fctl5Pqv3FcWRHHOVEL9Cs0jJKnuw2KNUP3dpZ08WTfxcKc8f4aeP1hXa1rhKqURj2lE6a_FogCIQY1zaA9vt",
+    "https://maps.app.goo.gl/127eWURmsCKBLt926?g_st=il",
+    "https://maps.app.goo.gl/127eWURmsCKBLt926?g_st=il&fbclid=IwAR16LpZDQdhExHH9RvYzuDd8Lr-dBIGccnHCP00xnsGXn3O6Z5nl0v-LR9Q",
+    "https://maps.app.goo.gl/3vDSgMHFgvtbWzt3A",
+    "https://maps.app.goo.gl/ZymU3eTmAmULKrD4A",
+    "https://maps.app.goo.gl/bP19js6pqmaY3D9V6",
+    "https://maps.app.goo.gl/nn1gpkaDNozXvvb77",
+    "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF",
+    "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUapply.PDF?fbclid=IwAR2ai8ZNwZBZe7NgeNDJmRRq-yYGAaQAiEa-2UiV0o05J7Qn1zKeUwqxliw",
+    "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf",
+    "https://ojsat.or.th/main/wp-content/uploads/EJU/EJUhowto.pdf?fbclid=IwAR3fN-nU0UjYy4zB-V8XcTuPVsXpxeli3rqZNK-jPuFk1QWF7EycSIkcwOM",
+    "https://script.google.com/macros/s/AKfycbw_0w-DMx-YZsquMjwQMYz-A2dEhhGKO2UNiu_xbvlMP28lxrga1dT5CGZ2DTMgsQ3J/exec",
+    "https://script.google.com/macros/s/AKfycbxcctS9dnYSO_D20JKg5ojvn8S5BgsPh9nGXbIlBuEHVQZdU3g-6XKI7GaVX_l6wawzyg/exec",
+    "https://sparklewpthemes.com/ ",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/t29/1.5/16/1f448.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1.5/16/2665.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/t5/1.5/16/1f4cc.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/t56/1.5/16/1f4c4.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/ta2/1.5/16/1f4da.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1.5/16/1f4b0.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/td6/1.5/16/2712.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/te4/1.5/16/1f465.png",
+    "https://static.xx.fbcdn.net/images/emoji.php/v9/te5/1.5/16/1f4bb.png",
+    "https://www.facebook.com/hashtag/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/hashtag/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AF%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/hashtag/%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/hashtag/japaneselanguage?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/hashtag/jlpt?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/hashtag/ojsatn?__eep__=6&__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=*NK-R",
+    "https://www.facebook.com/ojsatn",
+    "https://www.facebook.com/ojsatn/",
+    "https://www.facebook.com/ojsatn?__cft__[0]=AZVqwDz5JpDolJPZAk7k4s9DFab3nKJHkWxPR5qiiGR866k-E4Q4f2iqDsEH7r8-oFWiSNkUgXor-mvtFGMNHFB4TwvQB0UafcpVilaB_QyRFTUWvlHz5OD_KmJlNfDG24vlrFJT-WW3TTJ0HmeWKzdL9NyjF7Vi9PytL6Q3Dz1vCvYiWjIkEsurj900ZaRtxf8&__tn__=-]K-R",
+    "https://www.facebook.com/ojsatn?__cft__[0]=AZXRS3UdJ1naZG07IYh8vFYNuLqZ36EehU1F7R7VkGJ5D1InoZtXqVGrdc37zyDsT4vYcxAWZke3gxgFPjgi0uLmd73-CME7v4xnQgR6Kc4SJAbYghknYctgUS0NH9qnDYCZjjjdlFUlcXQ68jT-BJNTPSHCGz2vIMIHfsWd-Eqp3e95CFIAXdKPrFreeYEm8QM&__tn__=-]K-R",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3776.879772342814!2d98.948714114897!3d18.803510587244787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30da3a6a35983431%3A0xdbc78e868abe1586!2sFaculty%20of%20Humanities%2C%20Chiang%20Mai%20University!5e0!3m2!1sen!2sth!4v1668614082635!5m2!1sen!2sth",
+    "https://www.jeic-bangkok.org/thfair24",
+    "https://www.jlpt-overseas.jp/onlineresults",
+    "https://www.jlpt-overseas.jp/onlineresults/",
+    "https://www.jlpt.jp/e/guideline/results_online.html",
+    "https://www.jlptonlinethailand.com/",
+    "https://www.jlptonlinethailand.com/2023/",
+    "https://www.jlptonlinethailand.com/2025/",
+    "https://www.jlptonlinethailand.net/",
+    "https://www.ojsat.or.th",
+    "https://www.ojsat.or.th/"
+  ]
+}

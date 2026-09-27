@@ -1,0 +1,542 @@
+[
+  {
+    "id": 951,
+    "date": "2025-01-02T20:22:39",
+    "date_gmt": "2025-01-02T13:22:39",
+    "guid": {
+      "rendered": "https://www.ojsatn.or.th/?page_id=951"
+    },
+    "modified": "2026-07-22T21:51:41",
+    "modified_gmt": "2026-07-22T14:51:41",
+    "slug": "journal",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/journal/",
+    "title": {
+      "rendered": "วารสาร"
+    },
+    "content": {
+      "rendered": "\nวารสาร ส.น.ญ.น. ปีที่ 29 ฉบับที่ 2 พฤศจิกายน 2568 – เมษายน 2569\n<iframe allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen; clipboard-write\" scrolling=\"no\" class=\"fp-iframe\" style=\"border: 1px solid lightgray; width: 100%; height: 800px;\" src=\"https://heyzine.com/flip-book/236353c239.html\"></iframe>\n\nวารสาร ส.น.ญ.น. ปีที่ 29 ฉบับที่ 1 พฤษภาคม 2568 &#8211; ตุลาคม 2568\n<iframe allowfullscreen=\"allowfullscreen\" allow=\"clipboard-write\" scrolling=\"no\" class=\"fp-iframe\" src=\"https://heyzine.com/flip-book/835ddbe28d.html\" style=\"border: 1px solid lightgray; width: 100%; height: 800px;\"></iframe>\n\nวารสาร ส.น.ญ.น. ปีที่ 28 ฉบับที่ 2 มกราคม 2568 &#8211; เมษายน 2568\n<iframe allowfullscreen=\"allowfullscreen\" allow=\"clipboard-write\" scrolling=\"no\" class=\"fp-iframe\" src=\"https://heyzine.com/flip-book/5a5adc928a.html\" style=\"border: 1px solid lightgray; width: 100%; height: 800px;\"></iframe>\n\nวารสาร ส.น.ญ.น. ปีที่ 28 ฉบับที่ 1 พฤษภาคม 2567 &#8211; ธันวาคม 2567\n<iframe allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"fp-iframe\" src=\"https://heyzine.com/flip-book/437ecb4207.html\" style=\"border: 1px solid lightgray; width: 100%; height: 800px;\"></iframe>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>วารสาร ส.น.ญ.น. ปีที่ 29 ฉบับที่ 2 พฤศจิกา&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/951"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=951"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 23,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/951/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1200,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/951/revisions/1200"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=951"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 804,
+    "date": "2024-05-17T21:37:50",
+    "date_gmt": "2024-05-17T14:37:50",
+    "guid": {
+      "rendered": "https://www.ojsatn.or.th/?page_id=804"
+    },
+    "modified": "2026-08-01T20:51:07",
+    "modified_gmt": "2026-08-01T13:51:07",
+    "slug": "committee",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/committee/",
+    "title": {
+      "rendered": "รายนามคณะกรรมการบริหาร"
+    },
+    "content": {
+      "rendered": "\n<p>รายนามคณะกรรมการบริหาร สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปภัมภ์ สาขาภาคเหนือ</p>\n\n\n\n<p><strong>วาระปัจจุบัน ปีบริหาร 2567 &#8211; 2569</strong></p>\n\n\n\n<p class=\"has-text-align-center\">ประธาน</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-1.png\" alt=\"\" class=\"wp-image-1041\" width=\"195\" height=\"235\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-1.png 250w, https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-1-248x300.png 248w\" sizes=\"(max-width: 195px) 100vw, 195px\" /><figcaption class=\"wp-element-caption\">ผศ.ดร.ธนียา เจติยานุกรกุล</figcaption></figure></div>\n\n\n<div class=\"is-layout-flex wp-container-4 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">รองประธานพัฒนาองค์กรและกิจการพิเศษ</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-7.png\" alt=\"\" class=\"wp-image-1049\" width=\"189\" height=\"213\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-7.png 284w, https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-7-265x300.png 265w\" sizes=\"(max-width: 189px) 100vw, 189px\" /><figcaption class=\"wp-element-caption\">ผศ.ดร.พีระวุฒิ วงศ์สวัสดิ์</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">รองประธานฝ่ายบริหารทรัพย์สินและต่างประเทศ</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-3.png\" alt=\"\" class=\"wp-image-1045\" width=\"176\" height=\"210\"/><figcaption class=\"wp-element-caption\">ผศ.ดร.จารึก สิงหปรีชา</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">รองประธานฝ่ายสมาชิกสัมพันธ์และนายทะเบียน</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-4.png\" alt=\"\" class=\"wp-image-1046\" width=\"182\" height=\"209\"/><figcaption class=\"wp-element-caption\">ผศ.ดร.เฉลิมพล คงจิตต์</figcaption></figure></div></div>\n</div>\n\n\n\n<div class=\"is-layout-flex wp-container-8 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">เลขาธิการและฝ่ายกิจการภายใน</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-6.png\" alt=\"\" class=\"wp-image-1048\" width=\"173\" height=\"200\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-6.png 281w, https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-6-259x300.png 259w\" sizes=\"(max-width: 173px) 100vw, 173px\" /><figcaption class=\"wp-element-caption\">นายเก่ง หาญวิริยะพันธุ์</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายสาราณียกรและรองเหรัญญิก</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-10.png\" alt=\"\" class=\"wp-image-1056\" width=\"166\" height=\"195\"/><figcaption class=\"wp-element-caption\">รศ.ดร.อัญชลี วรรณสาร</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายกิจกรรมต่างประเทศ</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-12.png\" alt=\"\" class=\"wp-image-1058\" width=\"177\" height=\"201\"/><figcaption class=\"wp-element-caption\">ผศ.ดร.ภก.สมจริง รุ่งแจ้ง</figcaption></figure></div></div>\n</div>\n\n\n\n<div class=\"is-layout-flex wp-container-12 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายเครือข่าย</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-11.png\" alt=\"\" class=\"wp-image-1057\" width=\"185\" height=\"212\"/><figcaption class=\"wp-element-caption\">รศ.ดร.เศรษฐ์ สัมภัตตะกุล</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายกิจการพิเศษ</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-14.png\" alt=\"\" class=\"wp-image-1060\" width=\"180\" height=\"212\"/><figcaption class=\"wp-element-caption\">อ.อัณณ์ชญาณ์ กุลชนาเกียรติ</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายวิเทศสัมพันธ์</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-15.png\" alt=\"\" class=\"wp-image-1071\" width=\"183\" height=\"217\"/><figcaption class=\"wp-element-caption\">อ.จิระพงค์ ไชยซาววงค์</figcaption></figure></div></div>\n</div>\n\n\n\n<div class=\"is-layout-flex wp-container-16 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายสื่อสารองค์กรและสมาชิก</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-13.png\" alt=\"\" class=\"wp-image-1059\" width=\"190\" height=\"224\"/><figcaption class=\"wp-element-caption\">ผศ.ดร.อักษรา ทองประชุม</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p>กรรมการบริหารฝ่ายกิจกรรมเพื่อสังคม</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-16.png\" alt=\"\" class=\"wp-image-1072\" width=\"181\" height=\"221\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-16.png 269w, https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-16-245x300.png 245w\" sizes=\"(max-width: 181px) 100vw, 181px\" /><figcaption class=\"wp-element-caption\">ผศ.ดร.สุริยะ ทองมุณี</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p>กรรมการบริหารฝ่ายภาษาและศิลปวัฒนธรรม</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-17.png\" alt=\"\" class=\"wp-image-1073\" width=\"196\" height=\"221\"/><figcaption class=\"wp-element-caption\">รศ.ดร.จิรันธนิน กิติกา</figcaption></figure></div></div>\n</div>\n\n\n\n<div class=\"is-layout-flex wp-container-20 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\">กรรมการบริหารฝ่ายวิชาการสมาคมและรองเลขาธิการ</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-18.png\" alt=\"\" class=\"wp-image-1075\" width=\"175\" height=\"202\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-18.png 286w, https://www.ojsatn.or.th/wp-content/uploads/2025/06/image-18-258x300.png 258w\" sizes=\"(max-width: 175px) 100vw, 175px\" /><figcaption class=\"wp-element-caption\">น.ส.วราภรณ์ เนตรศิลป์</figcaption></figure></div></div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\"></p>\n</div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<p class=\"has-text-align-center\"></p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>ประจำปี 2530-2532</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>นพ.ถาวร</td><td>รัตนสิริ</td></tr><tr><td>2</td><td>รองประธานฝ่ายประสานงาน</td><td>คุณจันทร์ดี</td><td>ชัยรัตน์</td></tr><tr><td>3</td><td>รองประธานฝ่ายโรงเรียนศิลปวัฒนธรรม</td><td>คุณสมบูรณ์</td><td>อรัณยภาค</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>คุณอภิชาติ</td><td>สุจริตรักษ์</td></tr><tr><td>5</td><td>รองเลขาธิการ</td><td>ผศ.สอาด</td><td>วรรณภีร์</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณกัญญา</td><td>ชุมสันติกุล</td></tr><tr><td>7</td><td>นายทะเบียน</td><td>คุณประมล</td><td>ลีรพันธ์</td></tr><tr><td>8</td><td>ปฏิคม</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>9</td><td>ประชาสัมพันธ์</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>10</td><td>กรรมการฝ่ายโรงเรียน</td><td>ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>11</td><td>กรรมการฝ่ายวิชาการ</td><td>อ.บุญธรรม</td><td>เร็วการ</td></tr><tr><td>12</td><td>กรรมการฝ่ายสาราณียกร</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2532-2534</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายกิจกรรมทั่วไป</td><td>อ.บุญธรรม</td><td>เร็วการ</td></tr><tr><td>3</td><td>รองประธานฝ่ายต่างประเทศ</td><td>คุณอภิชาติ</td><td>สุจริตรักษ์</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>ดร.สุรศักดิ์</td><td>บำรุงวงศ์</td></tr><tr><td>5</td><td>รองเลขาธิการ</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณกัญญา</td><td>ชุมสันติกุล</td></tr><tr><td>7</td><td>นายทะเบียน</td><td>คุณจินดา</td><td>เจริญกุล</td></tr><tr><td>8</td><td>สาราณียกร</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>9</td><td>รองสาราณียกร</td><td>อ.วิสุทธิ์</td><td>บัวเจริญ</td></tr><tr><td>10</td><td>ปฏิคม</td><td>ผศ.เสริมสุข</td><td>บัวเจริญ</td></tr><tr><td>11</td><td>ประชาสัมพันธ์</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>12</td><td>กรรมการฝ่ายกีฬาและบันเทิง</td><td>ผศ.กำเนิด</td><td>สุภัณวงศ์</td></tr><tr><td>13</td><td>กรรมการฝ่ายโรงเรียน</td><td>คุณประมล</td><td>ลีรพันธ์</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิชาการ</td><td>ดร.สุกัญญา</td><td>ลินพิศาล</td></tr><tr><td>15</td><td>กรรมการฝ่ายประสานงาน</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2534-2536</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายกิจกรรมทั่วไป</td><td>คุณประมล</td><td>ลีรพันธ์</td></tr><tr><td>3</td><td>รองประธานฝ่ายต่างประเทศ</td><td>คุณอภิชาติ</td><td>สุจริตรักษ์</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>ดร.สุกัญญา</td><td>ลินพิศาล</td></tr><tr><td>5</td><td>รองเลขาธิการ</td><td>คุณกัญญา</td><td>ชุมสันติกุล</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณวัชรี</td><td>ตุ้ยคำภีร์</td></tr><tr><td>7</td><td>นายทะเบียน</td><td>คุณจินดา</td><td>เจริญกุล</td></tr><tr><td>8</td><td>สาราณียกร</td><td>อ.สมชาย</td><td>เผ่าจินดา</td></tr><tr><td>9</td><td>รองสาราณียกร</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>10</td><td>ปฏิคม</td><td>คุณวันชัย</td><td>รัชฎามาศ</td></tr><tr><td>11</td><td>ประชาสัมพันธ์</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>12</td><td>กรรมการฝ่ายกีฬาและบันเทิง</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>13</td><td>กรรมการฝ่ายโรงเรียน</td><td>คุณศิริวรรณ</td><td>นิลเวศน์&nbsp;</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิชาการ</td><td>ดร.สุรศักดิ์</td><td>บำรุงวงศ์</td></tr><tr><td>15</td><td>กรรมการฝ่ายประสานงาน</td><td>อ.บุญธรรม</td><td>เร็วการ</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2536-2538</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ดร.สุรศักดิ์</td><td>บำรุงวงศ์</td></tr><tr><td>2</td><td>รองประธานฝ่ายกิจกรรมทั่วไป</td><td>อ.บุญธรรม</td><td>เร็วการ</td></tr><tr><td>3</td><td>รองประธานฝ่ายต่างประเทศ</td><td>ดร.สุกัญญา</td><td>ลินพิศาล</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>คุณกัญญา</td><td>ชุมสันติกุล</td></tr><tr><td>5</td><td>รองเลขาธิการ</td><td>คุณผ่องพรรณ</td><td>อุปพันธ์วงศ์</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณวัชรี</td><td>ตุ้ยคำภีร์</td></tr><tr><td>7</td><td>นายทะเบียน</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>8</td><td>สาราณียกร</td><td>อ.เบญจางค์</td><td>ใจใส</td></tr><tr><td>9</td><td>รองสาราณียกร</td><td>คุณบุญชัย</td><td>รักศิลปะกิจ</td></tr><tr><td>10</td><td>ปฏิคม</td><td>คุณประมล</td><td>ลีรพันธ์</td></tr><tr><td>11</td><td>ประชาสัมพันธ์</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>12</td><td>กรรมการฝ่ายกีฬาและบันเทิง</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>13</td><td>กรรมการฝ่ายโรงเรียน</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิชาการ</td><td>ศ.ดร.ประดิษฐ์</td><td>เทอดทูล</td></tr><tr><td>15</td><td>กรรมการฝ่ายประสานงาน</td><td>รศ.ดร.ไพบูลย์</td><td>สุทธสุภา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2538-2540</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>คุณสหะ</td><td>ปิติพัฒน์</td></tr><tr><td>2</td><td>รองประธานฝ่ายกิจกรรมทั่วไป</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>3</td><td>รองประธานฝ่ายต่างประเทศ</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>คุณพนิดา</td><td>จอมจันทร์ยอง</td></tr><tr><td>5</td><td>เหรัญญิก</td><td>คุณวัชรี</td><td>ตุ้ยคำภีร์</td></tr><tr><td>6</td><td>ประชาสัมพันธ์</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>7</td><td>กรรมการฝ่ายกีฬาและบันเทิง</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>8</td><td>กรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.เบญจางค์</td><td>ใจใส</td></tr><tr><td>9</td><td>ผู้ช่วยฝ่ายโรงเรียน</td><td>อ.ดร.สมภพ</td><td>สุวรรณรัฐ</td></tr><tr><td>10</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.เสริมเกียรติ</td><td>จอมจันทร์ยอง</td></tr><tr><td>11</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>12</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ศ.ดร.ประดิษฐ์</td><td>เทอดทูล</td></tr><tr><td>13</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณจิรภา</td><td>ปิตาวรรณ</td></tr><tr><td>14</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.เสริมสุข</td><td>บัวเจริญ</td></tr><tr><td>15</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2540-2542</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>2</td><td>รองประธานฝ่ายบริหาร</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>3</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>4</td><td>รองประธาน</td><td>คุณพนิดา</td><td>จอมจันทร์ยอง</td></tr><tr><td>5</td><td>เลขาธิการ</td><td>คุณวัชรี</td><td>ตุ้ยคำภีร์</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณยศ</td><td>ไชยพันธุ์</td></tr><tr><td>7</td><td>กรรมการฝ่ายประชาสัมพันธ์</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>8</td><td>ผู้ช่วยกรรมการประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>9</td><td>สาราณียกร</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>10</td><td>กรรมการฝ่ายทะเบียน&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>11</td><td>กรรมการฝ่ายสันทนาการและสวัสดิการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>12</td><td>ผู้ช่วยสันทนาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ศิริ&nbsp;&nbsp;&nbsp;</td><td>จรดล</td></tr><tr><td>13</td><td>กรรมการฝ่ายโรงเรียนและวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.เบญจางค์</td><td>ใจใส</td></tr><tr><td>14</td><td>ผู้ช่วยกรรมการฝ่ายโรงเรียนและวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณผาณิต</td><td>เลียวฤวรรณ์</td></tr><tr><td>15</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.เสริมเกียรติ</td><td>จอมจันทร์ยอง</td></tr><tr><td>16</td><td>อนุกรรมการ</td><td>คุณสัมฤทธิ์</td><td>สำแดง</td></tr><tr><td>17</td><td>อนุกรรมการ</td><td>คุณจิรภา</td><td>ปิตาวรรณ</td></tr><tr><td>18</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.เสริมสุข</td><td>บัวเจริญ</td></tr><tr><td>19</td><td>อนุกรรมการ</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2542-2544</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>อ.วังนคร</td><td>ไชยมงคล</td></tr><tr><td>2</td><td>รองประธานฝ่ายกิจกรรมทั่วไป&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณอภิชาติ</td><td>สุจริตรักษ์</td></tr><tr><td>3</td><td>รองประธานฝ่ายกิจกรรมพิเศษ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.เสริมเกียรติ</td><td>จอมจันทร์ยอง</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>5</td><td>เลขาธิการ</td><td>อ.เบญจางค์</td><td>ใจใส</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>7</td><td>กรรมการฝ่ายประชาสัมพันธ์</td><td>คุณภัณฑิรา (วิไลลักษณ์)</td><td>สิงห์ไตรภพ</td></tr><tr><td>8</td><td>ผู้ช่วยกรรมการฝ่ายประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ไพจิตร</td><td>อิ่งศิริวัฒน์</td></tr><tr><td>9</td><td>สาราณียกร</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>10</td><td>กรรมการฝ่ายทะเบียน&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณพนิดา</td><td>จอมจันทร์ยอง</td></tr><tr><td>11</td><td>กรรมการฝ่ายสันทนาการและสวัสดิการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>12</td><td>ผู้ช่วยสันทนาการและสวัสดิการ&nbsp;&nbsp;&nbsp;</td><td>รศ.ประพันธ์&nbsp;&nbsp;&nbsp;</td><td>ศิริพลับพลา</td></tr><tr><td>13</td><td>กรรมการฝ่ายโรงเรียนและวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.วลัยพร</td><td>เรียงจิตร์</td></tr><tr><td>14</td><td>ผู้ช่วยกรรมการฝ่ายโรงเรียนและวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.เกรียงศักดิ์</td><td>ไชยโรจน์</td></tr><tr><td>15</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.เสริมสุข</td><td>บัวเจริญ</td></tr><tr><td>16</td><td>อนุกรรมการ</td><td>คุณนงพันธ์</td><td>เทพดลไชย</td></tr><tr><td>17</td><td>อนุกรรมการ</td><td>อ.ประกฤต</td><td>คำดวงดาว</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2544-2546</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายบริหารและกิจการโรงเรียน</td><td>ผศ.นาฏยา</td><td>ตนานนท์&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายวิชาการและวัฒนธรรม</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>4</td><td>รองประธานฝ่ายกิจกรรมพิเศษและสมาชิกสัมพันธ์</td><td>คุณพัชรินทร์</td><td>ปันดอนตอง</td></tr><tr><td>5</td><td>เลขาธิการ</td><td>รศ.ดร.เกรียงศักดิ์</td><td>ไชยโรจน์</td></tr><tr><td>6</td><td>ผู้ช่วยเลขาธิการ</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>7</td><td>เหรัญญิก</td><td>คุณยศ</td><td>ไชยพันธุ์</td></tr><tr><td>8</td><td>กรรมการฝ่ายประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณนงพันธ์</td><td>เทพดลไชย</td></tr><tr><td>9</td><td>สาราณียกร</td><td>คุณภัณฑิรา</td><td>สิงห์ไตรภพ</td></tr><tr><td>10</td><td>กรรมการฝ่ายทะเบียน&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณพนิดา</td><td>จอมจันทร์ยอง</td></tr><tr><td>11</td><td>กรรมการฝ่ายสันทนการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>12</td><td>กรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ</td></tr><tr><td>13</td><td>ผู้ช่วยฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ศศิธร</td><td>ศรีรัตน์</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr><tr><td>15</td><td>กรรมการฝ่ายวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ประกฤต</td><td>คำดวงดาว</td></tr><tr><td>16</td><td>อนุกรรมการ</td><td>คุณนภาพร</td><td>รักสกุลกานต์</td></tr><tr><td>17</td><td>อนุกรรมการ</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>18</td><td>อนุกรรมการ&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr><tr><td>19</td><td>อนุกรรมการ</td><td>อ.สมชาย</td><td>เผ่าจินดา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2546-2548</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายบริหาร</td><td>ผศ.นาฏยา</td><td>ตนานนท์&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายวิชาการและวัฒนธรรม</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr><tr><td>4</td><td>เลขาธิการ</td><td>คุณพัชรินทร์</td><td>ปันดอนตอง</td></tr><tr><td>5</td><td>ผู้ช่วยเลขาธิการ</td><td>คุณสุวิรุฬห์</td><td>อนันตศานต์</td></tr><tr><td>6</td><td>เหรัญญิก</td><td>คุณยศ</td><td>ไชยพันธุ์</td></tr><tr><td>7</td><td>กรรมการฝ่ายทะเบียน</td><td>คุณอนุชิต</td><td>ไชยถา</td></tr><tr><td>8</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>9</td><td>กรรมการฝ่ายประชาสัมพันธ์</td><td>คุณนงพันธ์</td><td>เทพดลไชย</td></tr><tr><td>10</td><td>กรรมการฝ่ายสันทนการ&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณปาริชาติ</td><td>ภัควิภาส</td></tr><tr><td>11</td><td>กรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณพนิดา</td><td>จอมจันทร์ยอง</td></tr><tr><td>12</td><td>ผู้ช่วยกรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ศมาภรณ์</td><td>อิวาชิตะ</td></tr><tr><td>13</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ประกฤต</td><td>คำดวงดาว</td></tr><tr><td>14</td><td>กรรมการฝ่ายศิลปวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณชนากานต์</td><td>ซากาเบะ</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2548-2550</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>คุณยศ</td><td>ไชยพันธุ์</td></tr><tr><td>2</td><td>รองประธานฝ่ายบริหาร</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายบริหาร</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>4</td><td>รองประธานฝ่ายวิชาการและวัฒนธรรม</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr><tr><td>5</td><td>เลขาธิการ</td><td>คุณพัชรินทร์</td><td>จันทร์สุขเศรษฐ์</td></tr><tr><td>6</td><td>รองเลขาธิการ</td><td>คุณกมล</td><td>โตแสงชัย</td></tr><tr><td>7</td><td>เหรัญญิก</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>8</td><td>กรรมการฝ่ายทะเบียน</td><td>คุณอนุชิต</td><td>ไชยถา</td></tr><tr><td>9</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>10</td><td>กรรมการฝ่ายประชาสัมพันธ์</td><td>คุณนงพันธ์</td><td>เทพดลไชย</td></tr><tr><td>11</td><td>กรรมการฝ่ายสันทนการ&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>12</td><td>กรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.สรัญญา</td><td>คงจิตต์</td></tr><tr><td>13</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ประกฤต</td><td>คำดวงดาว</td></tr><tr><td>14</td><td>กรรมการฝ่ายศิลปวัฒนธรรม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณชนากานต์</td><td>ซากาเบะ</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2550-2552</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.นาฏยา</td><td>ตนานนท์</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการและวัฒนธรรม</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายบริหารและกิจการโรงเรียน</td><td>คุณพัชรินทร์</td><td>ปันดอนตอง</td></tr><tr><td>4</td><td>รองประธานฝ่ายกิจกรรมพิเศษ</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>5</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณนงพันธุ์</td><td>เทพดลไชย</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>7</td><td>เหรัญญิก</td><td>คุณชนากานต์</td><td>ซากาเบะ</td></tr><tr><td>8</td><td>สาราณียกร</td><td>คุณชนัญญา</td><td>มหาพรหม</td></tr><tr><td>9</td><td>ประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.เบญจางค์</td><td>ใจใส</td></tr><tr><td>10</td><td>กรรมการฝ่ายกีฬาและสันทนาการ</td><td>รศ.ดร.สุกิจ</td><td>ขันธปราบ</td></tr><tr><td>11</td><td>กรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.สรัญญา</td><td>คงจิตต์</td></tr><tr><td>12</td><td>ผู้ช่วยกรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ว่าที่ ร.ต.สวัสดิ์</td><td>ทาหน่อทอง</td></tr><tr><td>13</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิเทศสัมพันธ์&nbsp;&nbsp;</td><td>อ.นฤมล</td><td>ชนาเกียรติ</td></tr><tr><td>15</td><td>กรรมการฝ่ายประชาสัมพันธ์</td><td>น.ต.ปรเมษฐ์</td><td>ศิริตานนท์</td></tr><tr><td>16</td><td>กรรมการฝ่ายวัฒนธรรม</td><td>อ.ประกฤต</td><td>คำดวงดาว</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2552-2554</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>รศ.ดร.สุกิจ</td><td>ขันธปราบ</td></tr><tr><td>2</td><td>รองประธานฝ่ายบริหาร</td><td>อ.ประกฤต</td><td>คำดวงดาว&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายวิชาการและวัฒนธรรม</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>รศ.ประพันธ์</td><td>ศิริพลับพลา</td></tr><tr><td>5</td><td>รองประธานฝ่ายกิจกรรมพิเศษ</td><td>อ.สมเกียรติ</td><td>จตุรพิธพร</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>7</td><td>เหรัญญิก</td><td>คุณภัณฑิรา</td><td>สิงห์ไตรภพ</td></tr><tr><td>8</td><td>กรรมการฝ่ายโรงเรียน</td><td>อ.ธีรัช</td><td>ปัญโญ</td></tr><tr><td>9</td><td>ผู้ช่วยกรรมการฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>10</td><td>กรรมการฝ่ายวิชาการและวิเทศน์สัมพันธ์</td><td>คุณชนากานต์</td><td>ซากาเบะ</td></tr><tr><td>11</td><td>กรรมการฝ่ายวัฒนธรรมและสาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณไพศาล</td><td>ภิโลคำ</td></tr><tr><td>12</td><td>ผู้ช่วยกรรมการฝ่ายวัฒนธรรมและสาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณรัฐพล</td><td>ปัญจเรือง</td></tr><tr><td>13</td><td>กรรมการฝ่ายประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณอัมพวัลย์</td><td>ทักษิณสุข</td></tr><tr><td>14</td><td>นายทะเบียนและผู้ช่วยฝ่ายประชาสัมพันธ์&nbsp;</td><td>ร.อ.สุรพล</td><td>วิลัยรักษ์</td></tr><tr><td>15</td><td>กรรมการฝ่ายกีฬาและสันทนาการ</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2554-2556</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการ</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายบริหาร</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>น.ต.ปรเมษฐ์</td><td>ศิริตานนท์</td></tr><tr><td>5</td><td>นายทะเบียน&nbsp;</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>6</td><td>ผู้ช่วยสาราณียกร</td><td>คุณเก่ง</td><td>หาญวิริยะพันธุ์</td></tr><tr><td>7</td><td>เหรัญญิก</td><td>ผศ.ลดาวัลย์</td><td>ภูมิวิชชุเวช</td></tr><tr><td>8</td><td>เลขาธิการ</td><td>อ.สรัญญา</td><td>คงจิตต์</td></tr><tr><td>9</td><td>กรรมการฝ่ายวิชาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ธีรัช</td><td>ปัญโญ</td></tr><tr><td>10</td><td>กรรมการฝ่ายโรงเรียน</td><td>อ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>11</td><td>กรรมการฝ่ายสมาชิกสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr><tr><td>12</td><td>กรรมการฝ่ายวัฒนธรรมสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณชนัญญา</td><td>มหาพรหม</td></tr><tr><td>13</td><td>รองกรรมการฝ่ายประชาสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.นฤมล</td><td>ชนาเกียรติ</td></tr><tr><td>14</td><td>กรรมการฝ่ายวิเทศสัมพันธ์&nbsp;</td><td>อ.จุฬาลักษณ์</td><td>โคบายาชิ</td></tr><tr><td>15</td><td>สาราณียกร</td><td>อ.จิระพงค์</td><td>ไชยซาววงค์</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2556-2558</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการ</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายบริหาร</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>4</td><td>เหรัญญิก</td><td>ผศ.ลดาวัลย์</td><td>ภูมิวิชชุเวช</td></tr><tr><td>5</td><td>เลขาธิการและนายทะเบียน&nbsp;</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>6</td><td>ผู้ช่วยเลขาธิการ</td><td>คุณเก่ง</td><td>หาญวิริยะพันธุ์</td></tr><tr><td>7</td><td>กรรมการฝ่ายโรงเรียน</td><td>อ.วิไลรัตน์</td><td>ทาโส</td></tr><tr><td>8</td><td>กรรมการฝ่ายกีฬาและสันทนาการ</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr><tr><td>9</td><td>กรรมการฝ่ายวัฒนธรรมสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>คุณอนุชิต</td><td>ไชยถา</td></tr><tr><td>10</td><td>รองกรรมการฝ่ายประชาสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม</td></tr><tr><td>11</td><td>ผู้ช่วยประชาสัมพันธ์&nbsp;&nbsp;&nbsp;</td><td>ดร.บังอร</td><td>ร้อยกรอง</td></tr><tr><td>12</td><td>กรรมการฝ่ายวิเทศสัมพันธ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ธีรัช</td><td>ปัญโญ</td></tr><tr><td>13</td><td>ฝ่ายปฏิคม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.จุฬาลักษณ์</td><td>โคบายาชิ</td></tr><tr><td>14</td><td>สาราณียกร&nbsp;</td><td>อ.จิระพงค์</td><td>ไชยซาววงค์</td></tr><tr><td>15</td><td>ผู้ช่วยสาราณียกร</td><td>คุณเมลิน</td><td>เชื้อมโนชาญ</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2558-2560</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.วลัยพร&nbsp;</td><td>กาญจนการุณ</td></tr><tr><td>2</td><td>รองประธานฝ่ายพัฒนาองค์กร</td><td>อ.มาลินี</td><td>&nbsp;วรรณวงศ์&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม</td></tr><tr><td>4</td><td>รองประธานฝ่ายวิชาการและเทคโนโลยีสารสนเทศ&nbsp;</td><td>น.ท.ปรเมษฐ์</td><td>ศิริตานนท์&nbsp;&nbsp;</td></tr><tr><td>5</td><td>รองประธานฝ่ายวิเทศสัมพันธ์</td><td>อ.ธีรัช</td><td>ปัญโญ</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>7</td><td>รองเลขาธิการและนายทะเบียน</td><td>คุณเก่ง</td><td>หาญวิริยะพันธุ์</td></tr><tr><td>8</td><td>เหรัญญิก</td><td>อ.อัมพร</td><td>พันธุ์พาณิชย์</td></tr><tr><td>9</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.จิระพงค์</td><td>ไชยซาววงค์</td></tr><tr><td>10</td><td>ประชาสัมพันธ์</td><td>ผศ.ดร.พีระวุฒิ</td><td>วงศ์สวัสดิ์</td></tr><tr><td>11</td><td>กรรมการบริหารด้านวิชาการ</td><td>อ.ดร.ภก.สมจริง&nbsp;</td><td>รุ่งแจ้ง&nbsp;&nbsp;</td></tr><tr><td>12</td><td>กรรมการบริหารด้านกิจการโรงเรียนภาษาญี่ปุ่น</td><td>อ.วิไลรัตน์&nbsp;</td><td>ทาโส</td></tr><tr><td>13</td><td>กรรมการบริหารด้านกีฬาและสันทนาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr><tr><td>14</td><td>กรรมการบริหารด้านส่งเสริมและพัฒนาเครือข่ายองค์กร</td><td>อ.จุฬาลักษณ์&nbsp;</td><td>โคบายาชิ</td></tr><tr><td>15</td><td>กรรมการบริหารด้านวัฒนธรรมสัมพันธ์</td><td>คุณอนุชิต&nbsp;</td><td>ไชยถา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2560-2562</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.วลัยพร&nbsp;</td><td>กาญจนการุณ</td></tr><tr><td>2</td><td>รองประธานฝ่ายพัฒนาองค์กร</td><td>อ.มาลินี</td><td>&nbsp;วรรณวงศ์&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม</td></tr><tr><td>4</td><td>รองประธานฝ่ายการเงินและเทคโนโลยีสารสนเทศ&nbsp;</td><td>น.ท.ปรเมษฐ์</td><td>ศิริตานนท์&nbsp;&nbsp;</td></tr><tr><td>5</td><td>รองประธานฝ่ายวิเทศสัมพันธ์</td><td>ผศ.ธนานัทธ</td><td>ปัญโญ</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>7</td><td>กรรมการบริหารด้านเทคโนโลยีสารสนเทศ</td><td>คุณเก่ง</td><td>หาญวิริยะพันธุ์</td></tr><tr><td>8</td><td>เหรัญญิก</td><td>ผศ.ดร. จารึก</td><td>สิงหปรีชา</td></tr><tr><td>9</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.ดร.อัญชลี</td><td>วรรณสาร</td></tr><tr><td>10</td><td>ประชาสัมพันธ์</td><td>อ.ดร.นพ.ณัฐ</td><td>คูณรังษีสมบูรณ์</td></tr><tr><td>11</td><td>กรรมการบริหารด้านวิชาการและโรงเรียนสอนภาษา</td><td>อ.ดร.ภก.สมจริง&nbsp;</td><td>รุ่งแจ้ง&nbsp;&nbsp;</td></tr><tr><td>12</td><td>นายทะเบียน</td><td>อ.วิไลรัตน์&nbsp;</td><td>ทาโส</td></tr><tr><td>13</td><td>กรรมการบริหารด้านกีฬาและสันทนาการ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.นฐนัธย์</td><td>ใยบัว</td></tr><tr><td>14</td><td>กรรมการบริหารด้านส่งเสริมและพัฒนาเครือข่ายองค์กร</td><td>อ.จุฬาลักษณ์&nbsp;</td><td>โคบายาชิ</td></tr><tr><td>15</td><td>กรรมการบริหารด้านวัฒนธรรมสัมพันธ์</td><td>คุณอนุชิต&nbsp;</td><td>ไชยถา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2562-2564</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ธนานัทธ&nbsp;</td><td>ปัญโญ</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการ</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายพัฒนาองค์กรและเหรัญญิก</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม&nbsp;&nbsp;</td></tr><tr><td>5</td><td>รองประธานฝ่ายวิเทศสัมพันธ์และเทคโนโลยีสารสนเทศ</td><td>น.อ.ปรเมษฐ์</td><td>ศิริตานนท์</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>7</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.อัญชลี</td><td>วรรณสาร</td></tr><tr><td>8</td><td>นายทะเบียน</td><td>อ.วิไลรัตน์</td><td>ทาโส</td></tr><tr><td>9</td><td>กรรมการบริหารด้านวิชาการ&nbsp;&nbsp;&nbsp;</td><td>ผศ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>10</td><td>กรรมการบริหารด้านส่งเสริมและพัฒนาเครือข่ายองค์กร</td><td>อ.จุฬาลักษณ์</td><td>โคบายาชิ</td></tr><tr><td>11</td><td>กรรมการบริหารด้านเทคโนโลยีสารสนเทศ</td><td>คุณเก่ง&nbsp;</td><td>หาญวิริยะพันธุ์&nbsp;&nbsp;</td></tr><tr><td>12</td><td>กรรมการบริหารด้านการสื่อสารองค์กรและผู้ช่วยนายทะเบียน</td><td>อ.ดร.จิรันธนิน&nbsp;</td><td>กิติกา</td></tr><tr><td>13</td><td>กรรมการบริหารฝ่ายโรงเรียน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ดร.เบญจมาศ</td><td>นิลสุวรรณ์</td></tr><tr><td>14</td><td>กรรมการบริหารด้านสันทนาการ</td><td>อ.นฐนัธย์&nbsp;</td><td>ใยบัว</td></tr><tr><td>15</td><td>กรรมการบริหารด้านวัฒนธรรมสัมพันธ์</td><td>คุณอนุชิต&nbsp;</td><td>ไชยถา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2564-2565</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน (รักษาการ)</td><td>ผศ.ธนานัทธ&nbsp;</td><td>ปัญโญ</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการ</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายพัฒนาองค์กรและเหรัญญิก</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม&nbsp;&nbsp;</td></tr><tr><td>5</td><td>รองประธานฝ่ายวิเทศสัมพันธ์และเทคโนโลยีสารสนเทศ</td><td>น.อ.ปรเมษฐ์</td><td>ศิริตานนท์</td></tr><tr><td>6</td><td>เลขาธิการ</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล</td></tr><tr><td>7</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ดร.จิรันธนิน</td><td>กิติกา</td></tr><tr><td>8</td><td>นายทะเบียน</td><td>อ.วิไลรัตน์</td><td>ทาโส</td></tr><tr><td>9</td><td>กรรมการบริหารฝ่ายกิจกรรมต่างประเทศ</td><td>ผศ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>10</td><td>กรรมการบริหารฝ่ายส่งเสริมและพัฒนาภาษา</td><td>อ.จุฬาลักษณ์</td><td>โคบายาชิ</td></tr><tr><td>11</td><td>กรรมการบริหารด้านเทคโนโลยีสารสนเทศ</td><td>คุณเก่ง&nbsp;</td><td>หาญวิริยะพันธุ์&nbsp;&nbsp;</td></tr><tr><td>12</td><td>กรรมการบริหารด้านการสื่อสารองค์กรและผู้ช่วยนายทะเบียน</td><td>รศ.ดร.อัญชลี&nbsp;</td><td>วรรณสาร</td></tr><tr><td>13</td><td>กรรมการบริหารด้านส่งเสริมและพัฒนาเครือข่ายองค์กร&nbsp;&nbsp;&nbsp;&nbsp;</td><td>อ.ดร.เบญจมาศ</td><td>นิลสุวรรณ์</td></tr><tr><td>14</td><td>กรรมการบริหารด้านสันทนาการ</td><td>อ.นฐนัธย์&nbsp;</td><td>ใยบัว</td></tr><tr><td>15</td><td>กรรมการบริหารด้านวัฒนธรรมสัมพันธ์</td><td>คุณอนุชิต&nbsp;</td><td>ไชยถา</td></tr></tbody></table></figure>\n\n\n\n<p><strong>ประจำปี 2565-2567</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ธนานัทธ&nbsp;</td><td>ปัญโญ</td></tr><tr><td>2</td><td>รองประธานฝ่ายวิชาการ</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ&nbsp;&nbsp;</td></tr><tr><td>3</td><td>รองประธานฝ่ายพัฒนาองค์กรและเหรัญญิก</td><td>อ.มาลินี</td><td>วรรณวงศ์</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์</td><td>คุณชนัญญา</td><td>มหาพรหม&nbsp;&nbsp;</td></tr><tr><td>5</td><td>รองประธานฝ่ายวิเทศสัมพันธ์และเทคโนโลยีสารสนเทศ</td><td>น.อ.ปรเมษฐ์</td><td>ศิริตานนท์</td></tr><tr><td>6</td><td>กรรมการบริหารฝ่ายกิจกรรมต่างประเทศ</td><td>ผศ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>7</td><td>กรรมการบริหารด้านการสื่อสารองค์กรและผู้ช่วยนายทะเบียน&nbsp;&nbsp;&nbsp;&nbsp;</td><td>รศ.ดร.อัญชลี</td><td>วรรณสาร</td></tr><tr><td>8</td><td>กรรมการบริหารฝ่ายส่งเสริมและพัฒนาภาษา</td><td>อ.วิไลรัตน์</td><td>ทาโส</td></tr><tr><td>9</td><td>กรรมการบริหารด้านเทคโนโลยีสารสนเทศและรองเลขาธิการ</td><td>คุณเก่ง</td><td>หาญวิริยะพันธุ์</td></tr><tr><td>10</td><td>กรรมการบริหารด้านส่งเสริมและพัฒนาเครือข่ายองค์กร</td><td>อ.ดร.เบญจมาศ</td><td>นิลสุวรรณ์</td></tr><tr><td>11</td><td>กรรมการบริหารด้านสันทนาการ</td><td>&nbsp;อ.นฐนัธย์</td><td>&nbsp;ใยบัว</td></tr><tr><td>12</td><td>กรรมการบริหารด้านวัฒนธรรมสัมพันธ์</td><td>คุณอนุชิต</td><td>ไชยถา</td></tr><tr><td>13</td><td>สาราณียกร&nbsp;&nbsp;&nbsp;&nbsp;</td><td>ผศ.ดร.จิรันธนิน</td><td>ไชยถา</td></tr><tr><td>14</td><td>เลขาธิการและนายทะเบียน</td><td>ผศ.ดร.ธนียา&nbsp;</td><td>เจติยานุกรกุล</td></tr></tbody></table></figure>\n\n\n\n<p><strong><strong>ประจำปี 2567 &#8211; 2</strong>569</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>ประธาน</td><td>ผศ.ดร.ธนียา</td><td>เจติยานุกรกุล </td></tr><tr><td>2</td><td>รองประธานพัฒนาองค์กรและกิจการพิเศษ</td><td>ผศ.ดร.พีระวุฒิ</td><td>วงศ์สวัสดิ์  </td></tr><tr><td>3</td><td>รองประธานฝ่ายบริหารทรัพย์สินและต่างประเทศ</td><td>ผศ.ดร.จารึก</td><td>สิงหปรีชา</td></tr><tr><td>4</td><td>รองประธานฝ่ายสมาชิกสัมพันธ์และนายทะเบียน</td><td>ผศ.ดร.เฉลิมพล</td><td>คงจิตต์ </td></tr><tr><td>5</td><td>กรรมการบริหารฝ่ายสาราณียกรและรองเหรัญญิก</td><td>รศ.ดร.อัญชลี</td><td>วรรณสาร</td></tr><tr><td>6</td><td>กรรมการบริหารฝ่ายกิจกรรมต่างประเทศ</td><td>ผศ.ดร.ภก.สมจริง</td><td>รุ่งแจ้ง</td></tr><tr><td>7</td><td>กรรมการบริหารฝ่ายเครือข่าย   </td><td>รศ.ดร.เศรษฐ์</td><td>สัมภัตตะกุล</td></tr><tr><td>8</td><td>กรรมการบริหารฝ่ายกิจการพิเศษ</td><td>อ.อัณณ์ชญาณ์</td><td>กุลชนาเกียรติ</td></tr><tr><td>9</td><td>กรรมการบริหารฝ่ายวิเทศสัมพันธ์</td><td>อ.จิระพงค์</td><td>ไชยซาววงค์</td></tr><tr><td>10</td><td>กรรมการบริหารฝ่ายสื่อสารองค์กรและสมาชิก</td><td>ผศ.ดร.อักษรา</td><td>ทองประชุม</td></tr><tr><td>11</td><td>กรรมการบริหารฝ่ายกิจกรรมเพื่อสังคม</td><td> ผศ.ดร.สุริยะ</td><td> ทองมุณี</td></tr><tr><td>12</td><td>กรรมการบริหารฝ่ายภาษาและศิลปวัฒนธรรม</td><td>รศ.ดร.จิรันธนิน</td><td>กิติกา</td></tr><tr><td>13</td><td>กรรมการบริหารฝ่ายวิชาการสมาคมและรองเลขาธิการ    </td><td>น.ส.วราภรณ์</td><td>เนตรศิลป์</td></tr><tr><td>14</td><td>เลขาธิการและฝ่ายกิจการภายใน</td><td>นายเก่ง</td><td>หาญวิริยะพันธุ์</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>รายนามคณะกรรมการบริหาร สมาคมนักเรียนเก่าญี&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/804"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=804"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 40,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/804/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1207,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/804/revisions/1207"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=804"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "date": "2022-10-23T00:43:58",
+    "date_gmt": "2022-10-22T17:43:58",
+    "guid": {
+      "rendered": "http://www.ojsatn.or.th/?page_id=88"
+    },
+    "modified": "2024-05-19T13:06:10",
+    "modified_gmt": "2024-05-19T06:06:10",
+    "slug": "%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%b4-%e0%b8%aa-%e0%b8%99-%e0%b8%8d-%e0%b8%99",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%b4-%e0%b8%aa-%e0%b8%99-%e0%b8%8d-%e0%b8%99/",
+    "title": {
+      "rendered": "ประวัติ ส.น.ญ.น."
+    },
+    "content": {
+      "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p>วิสัยทัศน์ : ศูนย์กลางกิจกรรมนักเรียนเก่าญี่ปุ่น ชาวไทยและเครือข่ายในอาเซียน เป็นเลิศด้านการเรียนการสอนภาษาและวัฒนธรรมญี่ปุ่นในประเทศไทย</p>\n</blockquote>\n\n\n\n<p>71 ปี ที่แล้ว เมื่อวันที่ 15 กันยายน 2494 ได้มีการจดทะเบียนจัดตั้งสมาคมนักเรียนเก่าญีปุ่น ในพระบรมราชูปถัมภ์ ที่ กรุงเทพมหานคร และวันที่ 3 มิถุนายน 2559 สมาคมฯก็ได้จดทะเบียนแก้ไขข้อบังคับเพิ่มเติม ให้มีสำนักงานสมาคมสาขาภาคเหนือ ที่จังหวัดเชียงใหม่</p>\n\n\n\n<p>ถ้าดูเวลาของการก่อตั้งตามกฎหมาย ดูเหมือนสมาคมฯ สาขาภาคเหนือจะมีอายุได้เพียงไม่กี่เดือน แต่ถ้านับตั้งแต่การก่อร่างสร้างตัวมาจนถึงวันนี้ สาขาภาคเหนือก็ถือกำเนิดเกิดมากว่า 35 ปีแล้ว<br>เริ่มต้นจากโต๊ะอาหารที่ Mr.Kamihigashi Teruo กงสุลญี่ปุ่น ประจำจังหวัดเชียงใหม่ ได้ปรารถขึ้นมาขณะที่รับประทานอาหารกลางวันร่วมกันกับนักเรียนเก่าญี่ปุ่นสามสี่คน ณ ร้านอาหารญี่ปุ่นแห่งหนึ่งว่า</p>\n\n\n\n<blockquote class=\"wp-block-quote\">\n<p>“เชียงใหม่มีนักเรียนเก่าญี่ปุ่นหลายคนแล้วนะ คนที่ไปอบรมดูงานกลับมาก็หลายคน น่าจะได้รู้จักกัน ที่กรุงเทพมีสมาคมนักเรียนเก่าญี่ปุ่น ที่เชียงใหม่เป็นชมรมก็ได้นี่” </p>\n</blockquote>\n\n\n\n<p>วันนั้นทุกคนก็มีความรู้สึกเหมือนกัน คือ อยากมีโอกาสพบปะสังสรรค์กับเพื่อนๆ ที่กลับมาจากญี่ปุ่น และผู้ที่รับอาสาจะประสานงานเรื่องนี้ต่อก็คือ นายแพทย์ถาวร รัตนศิริ ซึ่งขณะนั้นรับราชการเป็นอาจารย์คณะแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่ หลังจากนั้นก็ใช้เวลานานแรมปี ที่นายแพทย์ถาวร ได้หารือกับเพื่อนๆ ที่เป็นกรรมการสมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ หนึ่งในนั้นก็คือ คุณคมกฤต สุตธรรม ซึ่งเดินทางมาเชียงใหม่หลายครั้งเพื่อพบปะกับนักเรียนเก่าญี่ปุ่นกลุ่มเล็กๆ ปรึกษาถึงความเป็นไปได้ในการก่อตั้งสมาคมนักเรียนเก่าญี่ปุ่นภาคเหนือ จนกระทั่งความคิดตกผลึก<br>สมาคมฯ กรุงเทพซึ่งขณะนั้น พ.อ.วิเชียร บุรณศิริ เป็นนายกสมาคมก็เห็นชอบให้ตั้งเป็น สาขาภาคเหนือ<br>การรวมตัวกันของนักเรียนเก่าญี่ปุ่นในเชียงใหม่จึงเริมขึ้น โดยมีกรรมการก่อตั้งสมาคม 5 คน ประกอบด้วย นายแพทย์ถาวร รัตนศิริ เป็นประธาน คุณอภิชาติ สุจริตรักษ์ ตัวแทนนักเรียนทุนส่วนตัว คุณจันทร์ดี ชัยรัตน์ ตัวแทนภาคประชาชนที่ไปอบรมที่สถาบัน ARI (Asian Rural Institute) ดร.สุชาติ จิรพรเจริญ และ อาจารย์นาฏยา ตนานนท์ นักเรียนทุนรัฐบาลญี่ปุ่น (Monbusho) เป็นกรรมการ</p>\n\n\n\n<p>กรรมการก่อตั้งได้รวบรวมรายชื่อนักเรียน ผู้ที่เคยไปวิจัย ดูงาน และฝึกอบรมที่ประเทศญี่ปุ่นจากที่ทำการทางกงสุลญี่ปุ่น จังหวัดเชียงใหม่ (ชื่อในขณะนั้น) และจัดการประชุมเมื่อวันที่ 24 สิงหาคม 2528 ณ โรงแรมเชียงใหม่ภูคำ ปรากฏว่ามีผู้มาร่วมประชุมเป็นจำนวนมาก ที่ประชุมได้เลือก นายแพทย์ถาวร รัตนศิริ เป็นประธานสมาคมฯ สาขาภาคเหนือ และเลือกตัวแทนจากหน่วยงานต่าง ๆ อาทิ มหาวิทยาลัยเชียงใหม่ วิทยาลัยครู (ชือในขณะนั้น) สถาบันเทคโนโลยีราช<br>มงคลล้านนา และศูนย์ส่งเสริมอุตสาหกรรมภาคเหนือ เป็นกรรมการ ในระยะเริ่มแรก คุณอภิชาติ สุจริตรักษ์ อนุญาตให้ใช้ บริษัทนิด้าทัวร์ เป็นที่ทำการชั่วคราว จนกระทั่งสมาคมนักเรียนเก่าญี่ปุ่นฯ กรุงเทพเห็นชอบให้เช่าตึกแถว ด้านทิศเหนือของศาลากลางเก่า (ปัจจุบันเป็นหอศิลปวัฒนธรรมเมืองเชียงใหม่) โดยให้ใช้ชื่อว่า สำนักงานภาคเหนือ สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ แทนการเป็นสาขาภาคเหนือ เนื่องจากมีข้อขัดข้องทางกฎหมายบางประการ<br>และนายแพทย์ถาวรฯ ก็ได้ขอรับเงินสนับสนุนจาก Japan International Good Will Foundation สำหรับเป็นค่าตกแต่งภายในที่ทำการสำนักงานภาคเหนือแห่งแรก มีห้องเรียนภาษาญี่ปุ่น 2 ห้อง ซึ่งถูกออกแบบให้มีบรรยากาศแบบญี่ปุ่น และเปิดใช้อย่างไม่เป็นทางการเมื่อวันที่ 10 ธันวาคม 2529 จนเมื่อวันที่ 22 กุมภาพันธ์ 2530 จึงได้ทำพิธีเปิดอย่างเป็นทางการ โดยได้รับเกียรติจาก Mr.Takeo Fukuda อดีตนายกรัฐมนตรีญี่ปุ่น เป็นประธานในพิธี</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"550\" height=\"387\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history01.jpg\" alt=\"\" class=\"wp-image-248\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history01.jpg 550w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history01-300x211.jpg 300w\" sizes=\"(max-width: 550px) 100vw, 550px\" /><figcaption class=\"wp-element-caption\">วันเปิดสำนักงานภาคเหนือ เมื่อวันที่ 22 กุมภาพันธ์ 2530<br>(สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือปัจจุบัน)<br>ณ ตึกแถวข้างอนุสาวรีย์สามกษัตริย์<br>กลาง Mr.Takeo Fukuda อดีตนายกรัฐมนตรีญีปุ่น และภริยา,<br>คุณคมกฤต สุตธรรม กรรมการ ส.น.ญ., พ.อ.วิเชียร บุรณศิริ นายกสมาคมฯ<br>และ อ.นาฎยา ตนานนท์ กรรมการ ส.น.ญ.น.</figcaption></figure></div>\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"477\" height=\"333\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history02.jpg\" alt=\"\" class=\"wp-image-249\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history02.jpg 477w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history02-300x209.jpg 300w\" sizes=\"(max-width: 477px) 100vw, 477px\" /><figcaption class=\"wp-element-caption\">วันเปิดสำนักงานภาคเหนือ ครั้งแรก เมื่อวันที่ 22 กุมภาพันธ์ 2530<br>ณ ตึกแถว ข้างอนุสาวรีย์สามกษัตริย์<br>จากซ้าย คุณอภิชาติ สุจริตรักษ์ คุณคมกฤต สุตธรรม นายแพทย์ถาวร รัตนศิริ และ พ.อ.วิเชีย บุรณศิริ</figcaption></figure></div>\n\n\n<p>จากนั้นจากจำนวนสมาชิกในระยะเริ่มแรกเพียงไม่กี่สิบคนก็ค่อยๆ เพิ่มขึ้น ทำให้กิจกรรมของสำนักงานภาคเหนือเพิ่มมากขึ้นตามไปด้วย ทั้งกิจกรรมระหว่างสมาชิกด้วยกัน และกิจกรรมที่เป็นการเผยแพร่ภาษาและวัฒนธรรม โดยมีการเปิดสอนภาษาญี่ปุ่นแก่นักเรียน นักศึกษาและผู้สนใจทั่วไป ทั้งในจังหวัดเชียงใหม่และจังหวัดใกล้เคียง การจัดสอบวัดระดับความรู้ภาษาญี่ปุ่นและการจัดงานแนะแนวการศึกษาต่อประเทศญี่ปุ่น ตลอดจนจัดกิจกรรมแลกเปลี่ยนวัฒนธรรมกับชาวญี่ปุ่น จึงทำให้สำนักงานคับแคบไป กรรมการบริหารสำนักงานภาคเหนือในช่วงปี 2538-2540 ซึ่งมีคุณสหะ ปิติพัฒน์ เป็นประธาน จึงได้หารือกับสมาคมนักเรียนเก่าญี่ปุ่นฯ กรุงเทพ ขอซื้ออาคารที่ใหญ่กว่าเดิมเพื่อเป็นที่ทำการของ<br>สำนักงานภาคเหนือ ซึ่งทางสมาคมนักเรียนเก่าญี่ปุ่นฯ กรุงเทพ ก็เห็นชอบให้ซื้ออาคารสามชั้น หน้าวัดพระสิงห์วรมหาวิหาร ถ.สามล้าน ต.พระสิงห์ อ.เมือง จ.เชียงใหม่ ซึ่งเป็นทำเลที่เหมาะสำหรับทำกิจกรรมต่างๆ ของสมาคม โดยมีเงื่อนไขว่า สมาคมนักเรียนเก่าญี่ปุ่นฯ กรุงเทพจะชำระเงินค่าอาคารให้ก่อน แล้วสำนักงานภาคเหนือผ่อนชำระคืนในอัตราและเวลาที่กำหนด จึงเป็นอันว่า สำนักงานภาคเหนือมีที่ทำการถาวร และได้ทำพิธีเปิดอย่างเป็นทางการ เมื่อวันที่ 7 เมษายน 2539</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"466\" height=\"328\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history03.jpg\" alt=\"\" class=\"wp-image-250\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history03.jpg 466w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history03-300x211.jpg 300w\" sizes=\"(max-width: 466px) 100vw, 466px\" /><figcaption class=\"wp-element-caption\">พิธีเปิดสำนักงานภาคเหนือปัจจุบัน เมือวันที่ 7 เมษายน 2539<br>คุณฉัตรชัย ขุมทรัพย์ อดีตนายกสมาคมฯ และกรรมการ</figcaption></figure></div>\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"474\" height=\"337\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history04.jpg\" alt=\"\" class=\"wp-image-251\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history04.jpg 474w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history04-300x213.jpg 300w\" sizes=\"(max-width: 474px) 100vw, 474px\" /><figcaption class=\"wp-element-caption\">แขกผู้มีเกียรติที่มาร่วมพิธีเปิด เมื่อวันที่ 7 เมษายน 2539<br>ท่านกงสุลญีปุ่น และภริยา, คุณสุรพงศ์ ชยุตสาหกิจ อุปนายกฯ,<br>ดร.สำราญ ชูดวงเงิน กรรมการ ส.น.ญ., คุณเชี่ยวเวทย์ ยิ้มศิริกุล กรรมการ ส.น.ญ./สมาชิก</figcaption></figure></div>\n\n\n<p class=\"has-text-align-left\">ตลอดระยะเวลา 31 ปี ของการเป็นสมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ มีสมาชิก 332 คน<br>มีกรรมการบริหารมาแล้ว 16 ชุด ทุกชุดมีความพยายามที่จะดำเนินงานให้เป็นไปตามวัตถุประสงค์ของการก่อตั้งสมาคม ไม่ว่าความมุ่งมั่นในการสร้างความสัมพันธ์อันดี และช่วยเหลือซึ่งกันและกันระหว่างสมาชิก การเผยแพร่ภาษาและวัฒนธรรมญี่ปุ่น ความร่วมมือกับสถานกงสุลใหญ่ญี่ปุ่น ณ นครเชียงใหม่ สมาคมชาวญี่ปุ่น ชมรมผู้พำนักระยะยาวเชียงใหม่ (Chiang Mai Long Stay Life Club) ตลอดจนองค์กรต่างๆ ในการจัดกิจกรรมที่เป็นประโยชน์แก่ทั้งชาวไทยและชาวญี่ปุ่น และที่สำคัญสามารถหารายได้ที่จะดูแลสำนักงานภาคเหนือได้อย่างพอเพียง </p>\n\n\n\n<p class=\"has-text-align-left\">จากมิตรภาพบนโต๊ะอาหารของคนไม่กี่คน ได้ทอดยาวจนเกิดมิตรภาพและไมตรีจิตระหว่างนักเรียนเก่าญีปุ่นจำนวนมาก ขอบคุณท่านกงสุลใหญ่ญี่ปุ่นทุกท่านที่มีน้ำใจและไมตรีให้กับสมาคมนักเรียนเก่าญี่ปุ่น สาขาภาคเหนือ มาโดยตลอด ขอบคุณคณะกรรมการบริหารสมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สำนักงานกรุงเทพ ที่เข้าใจและช่วยสนับสนุนในทุกๆ ด้าน จนทำให้สำนักงานภาคเหนือค่อยๆ เติบโตจนเป็นสาขาภาคเหนือในปัจจุบัน</p>\n\n\n\n<p class=\"has-text-align-left\">ตลอดระยะเวลาที่าผ่านมา ทางสมาคมฯ กรุงเทพฯ ก็เปรียบเสมือน (สมาคมฯ พี่) ช่วยสนับสนุนส่งเสริมที่ทำให้การจัดตั้งสมาคมสาขาภาคเหนือ (สมาคมฯ น้อง) เป็นการจัดตั้งและจดทะเบียนอย่างสมบูรณ์ เมื่อวันที่ 3 มิถุนายน 2559 โดยหัวเรือใหญ่ คือ ดร.สำราญ ชูดวงเงิน นายกสมาคมฯ กรุงเทพ และ รศ.ดร.ประกิจ ตังติสานนท์ อุปนายกฝ่ายพัฒนาองค์กรและบุคลากร และที่ผ่านมาเมื่อวันที่ 23 กรกฎาคม 2559 ได้ทำพิธีเปิดป้ายสมาคมฯ อย่างเป็นทางการ โดยมีคณะกรรมการสมาคมฯ กรุงเทพ มาร่วมเป็นสักขีพยาน เป็นไปด้วยบรรยากาศที่อบอุ่น</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"508\" height=\"380\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history05.jpg\" alt=\"\" class=\"wp-image-252\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history05.jpg 508w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history05-300x224.jpg 300w\" sizes=\"(max-width: 508px) 100vw, 508px\" /><figcaption class=\"wp-element-caption\">พิธีเปิดสมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ<br>เมื่อวันที่ 23 กรกฎาคม 2559</figcaption></figure></div>\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"507\" height=\"381\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/history06.jpg\" alt=\"\" class=\"wp-image-253\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/history06.jpg 507w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/history06-300x225.jpg 300w\" sizes=\"(max-width: 507px) 100vw, 507px\" /></figure></div>\n\n\n<p>  </p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-text-align-center has-medium-font-size\"><strong>รายนามประธานกรรมการบริหาร</strong> </p>\n\n\n\n<p class=\"has-text-align-center has-medium-font-size\"><strong>สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td>1</td><td>นพ.ถาวร&nbsp;</td><td>รัตนะสิริ</td><td>พ.ศ. 2528-2530</td></tr><tr><td>2</td><td>นพ.ถาวร</td><td>รัตนะสิริ</td><td>พ.ศ. 2530-2532</td></tr><tr><td>3</td><td>ผศ.ดร.ชูชีพ&nbsp;</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2532-2534</td></tr><tr><td>4</td><td>ผศ.ดร.ชูชีพ</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2534-2536</td></tr><tr><td>5</td><td>ดร.สุรศักดิ์&nbsp;</td><td>บำรุงวงศ์</td><td>พ.ศ. 2536-2538</td></tr><tr><td>6</td><td>คุณสหะ&nbsp;</td><td>ปิติพัฒน์</td><td>พ.ศ. 2538-2540</td></tr><tr><td>7</td><td>อ.นาฏยา&nbsp;</td><td>ตนานนท์</td><td>พ.ศ. 2540-2542</td></tr><tr><td>8</td><td>คุณวังนคร&nbsp;</td><td>ไชยมงคล</td><td>พ.ศ. 2542-2544</td></tr><tr><td>9</td><td>ผศ.ดร.ชูชีพ&nbsp;</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2544-2546</td></tr><tr><td>10</td><td>ผศ.ดร.ชูชีพ&nbsp;</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2546-2548</td></tr><tr><td>11</td><td>คุณยศ&nbsp;</td><td>ไชยพันธุ์</td><td>พ.ศ. 2548-2550</td></tr><tr><td>12</td><td>ผศ.นาฏยา&nbsp;</td><td>ตนานนท์</td><td>พ.ศ. 2550-2552</td></tr><tr><td>13</td><td>รศ.ดร.สุกิจ</td><td>ขันธปราบ</td><td>พ.ศ. 2552-2554</td></tr><tr><td>14</td><td>ผศ.ดร.ชูชีพ&nbsp;</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2554-2556</td></tr><tr><td>15</td><td>ผศ.ดร.ชูชีพ&nbsp;</td><td>ประพุทธ์พิทยา</td><td>พ.ศ. 2556-2558</td></tr><tr><td>16</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ</td><td>พ.ศ. 2558-2560</td></tr><tr><td>17</td><td>ผศ.วลัยพร</td><td>กาญจนการุณ</td><td>พ.ศ. 2560-2562</td></tr><tr><td>18</td><td>ผศ.ธนานัทธ</td><td>ปัญโญ</td><td>พ.ศ. 2562-2564</td></tr><tr><td>19</td><td>ผศ.ธนานัทธ</td><td>ปัญโญ (รักษาการ)</td><td>พ.ศ. 2564-2565</td></tr><tr><td>20</td><td>ผศ.ธนานัทธ</td><td>ปัญโญ</td><td>พ.ศ. 2565-2567</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-สมาคมนักเรียนเก่าญี่ปุ่น-ในพระบรมราชูปถัมภ์-สาขาภาคเหนือ wp-block-embed-สมาคมนักเรียนเก่าญี่ปุ่น-ในพระบรมราชูปถัมภ์-สาขาภาคเหนือ\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"P4ioEtQKJa\"><a href=\"https://www.ojsatn.or.th/committee/\">รายนามคณะกรรมการบริหาร สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ</a></blockquote><iframe class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"&#8220;&lt;strong&gt;รายนามคณะกรรมการบริหาร สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ&lt;/strong&gt;&#8221; &#8212; สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ\" src=\"https://www.ojsatn.or.th/committee/embed/#?secret=pFu0ipeyiq#?secret=P4ioEtQKJa\" data-secret=\"P4ioEtQKJa\" width=\"600\" height=\"338\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe>\n</div></figure>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>วิสัยทัศน์ : ศูนย์กลางกิจกรรมนักเรียนเก่าญ&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/88"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=88"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 15,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/88/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 842,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/88/revisions/842"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=88"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "date": "2022-10-19T14:53:49",
+    "date_gmt": "2022-10-19T07:53:49",
+    "guid": {
+      "rendered": "http://www.ojsatn.or.th/?page_id=32"
+    },
+    "modified": "2023-01-07T22:46:27",
+    "modified_gmt": "2023-01-07T15:46:27",
+    "slug": "school",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/school/",
+    "title": {
+      "rendered": "โรงเรียนสอนภาษาญี่ปุ่น"
+    },
+    "content": {
+      "rendered": "\n<p>เปิดสอนภาษาญี่ปุ่นทุกระดับ ตั้งแต่ไม่มีพื้นฐาน ตัวอักษร ไวยากรณ์ การสนทนา จนถึงระดับสูง JLPT N5 – N1</p>\n\n\n\n<p>มีคอร์สเรียนภาษาญี่ปุ่นหลากหลาย ตอบโจทย์ทุกความต้องการ</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"724\" height=\"1024\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/course_basic-724x1024.jpg\" alt=\"\" class=\"wp-image-267\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_basic-724x1024.jpg 724w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_basic-212x300.jpg 212w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_basic-768x1086.jpg 768w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_basic.jpg 1077w\" sizes=\"(max-width: 724px) 100vw, 724px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"724\" height=\"1024\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/course_conver-724x1024.jpg\" alt=\"\" class=\"wp-image-268\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_conver-724x1024.jpg 724w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_conver-212x300.jpg 212w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_conver-768x1086.jpg 768w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_conver.jpg 1077w\" sizes=\"(max-width: 724px) 100vw, 724px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"724\" height=\"1024\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2023/01/course_jlpt-724x1024.jpg\" alt=\"\" class=\"wp-image-270\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_jlpt-724x1024.jpg 724w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_jlpt-212x300.jpg 212w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_jlpt-768x1086.jpg 768w, https://www.ojsatn.or.th/wp-content/uploads/2023/01/course_jlpt.jpg 1077w\" sizes=\"(max-width: 724px) 100vw, 724px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>เปิดสอนภาษาญี่ปุ่นทุกระดับ ตั้งแต่ไม่มีพื้&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=32"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/32/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 271,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/32/revisions/271"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "date": "2022-10-19T00:45:00",
+    "date_gmt": "2022-10-18T17:45:00",
+    "guid": {
+      "rendered": "http://www.ojsatn.or.th/?page_id=90"
+    },
+    "modified": "2023-01-07T22:49:10",
+    "modified_gmt": "2023-01-07T15:49:10",
+    "slug": "%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b8%b2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b8%b2/",
+    "title": {
+      "rendered": "ติดต่อเรา"
+    },
+    "content": {
+      "rendered": "\n<p>สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ<br>เลขที่ 3/3 ถนนสามล้าน ต.พระสิงห์ อ.เมือง จ.เชียงใหม่ 50200</p>\n\n\n\n<p>เบอร์โทรศัพท์ 053-272-331</p>\n\n\n\n<p>เวลาทำการ</p>\n\n\n\n<p>จันทร์ – ศุกร์ 10:00 – 20:00<br>เสาร์ – อาทิตย์ 9:00 – 16:00</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" src=\"http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebook.png\" alt=\"\" class=\"wp-image-107\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" src=\"http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/facebookbanner.jpg\" alt=\"\" class=\"wp-image-108\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" src=\"http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/line.jpeg\" alt=\"\" class=\"wp-image-109\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" src=\"http://www.ojsatn.or.th/blog/wp-content/uploads/2022/10/linebanner.jpg\" alt=\"\" class=\"wp-image-110\"/></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/90"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=90"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/90/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 272,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/90/revisions/272"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=90"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "date": "2022-10-09T19:47:32",
+    "date_gmt": "2022-10-09T19:47:32",
+    "guid": {
+      "rendered": "http://www.ojsatn.or.th/?page_id=2"
+    },
+    "modified": "2025-06-02T15:43:49",
+    "modified_gmt": "2025-06-02T08:43:49",
+    "slug": "informations",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.ojsatn.or.th/informations/",
+    "title": {
+      "rendered": "สมาชิกสัมพันธ์"
+    },
+    "content": {
+      "rendered": "\n<p class=\"has-text-align-center\"><strong>ข่าวประชาสัมพันธ์</strong></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/06/Newsletter-May-2025.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนพฤษภาคม 2025</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/06/Newsleter-April-2025.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนเมษายน 2025</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/06/Newsletter-March-2025.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนมีนาคม 2025</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/06/NewsleterFebruary-2025.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนกุมภาพันธ์ 2025</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/06/Newsletter-January-2025.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนมกราคม 2025</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/01/Newsletter-December-2024.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนธันวาคม 2024</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/01/Newsletter-November-2024.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนพฤศจิกายน 2024</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/01/Newsletter_October-2024.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนตุลาคม 2024</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/01/Newsletter-September-2024-.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนกันยายน 2024</a></p>\n\n\n\n<p><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2025/01/Newsletter-August-2024.pdf\" target=\"_blank\" rel=\"noopener\" title=\"\">จดหมายข่าวเดือนสิงหาคม 2024</a></p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><a href=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0467.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0467.jpg\" alt=\"\" class=\"wp-image-765\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0467.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0467-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a></figure></div>\n\n\n<figure class=\"is-layout-flex wp-block-gallery-21 wp-block-gallery has-nested-images columns-default is-cropped\">\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0367.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"750\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0367.jpg\" alt=\"\" class=\"wp-image-750\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0367.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0367-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนมีนาคม 2567</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0267.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"749\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0267.jpg\" alt=\"\" class=\"wp-image-749\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0267.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0267-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนกุมภาพันธ์ 2567</figcaption></figure>\n</figure>\n\n\n\n<figure class=\"is-layout-flex wp-block-gallery-23 wp-block-gallery has-nested-images columns-default is-cropped\">\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0167.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"748\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0167.jpg\" alt=\"\" class=\"wp-image-748\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0167.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0167-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนมกราคม 2567</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter1266.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"740\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1266.jpg\" alt=\"\" class=\"wp-image-740\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1266.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1266-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนธันวาคม 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter1166.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"741\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1166.jpg\" alt=\"\" class=\"wp-image-741\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1166.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1166-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนพฤศจิกายน 2566</figcaption></figure>\n</figure>\n\n\n\n<figure class=\"is-layout-flex wp-block-gallery-25 wp-block-gallery has-nested-images columns-default is-cropped\">\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter1066.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"742\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1066.jpg\" alt=\"\" class=\"wp-image-742\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1066.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter1066-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนตุลาคม 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0966.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"743\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0966.jpg\" alt=\"\" class=\"wp-image-743\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0966.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0966-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนกันยายน 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0866.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"744\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0866.jpg\" alt=\"\" class=\"wp-image-744\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0866.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0866-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนสิงหาคม 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0766.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"745\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0766.jpg\" alt=\"\" class=\"wp-image-745\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0766.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0766-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนกรกฎาคม 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0666.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"746\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0666.jpg\" alt=\"\" class=\"wp-image-746\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0666.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0666-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนมิถุนายน 2566</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2024/04/Newsletter0566.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"612\" height=\"792\" data-id=\"747\"  src=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0566.jpg\" alt=\"\" class=\"wp-image-747\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0566.jpg 612w, https://www.ojsatn.or.th/wp-content/uploads/2024/05/Newsletter0566-232x300.jpg 232w\" sizes=\"(max-width: 612px) 100vw, 612px\" /></a><figcaption class=\"wp-element-caption\">ข่าวประชาสัมพันธ์ ประจำเดือนพฤษภาคม 2566</figcaption></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-image size-full is-resized\"><a href=\"http://www.ojsatn.or.th/wp-content/uploads/2022/10/membersubmit.pdf\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.ojsatn.or.th/wp-content/uploads/2022/10/memberapp.jpg\" alt=\"\" class=\"wp-image-120\" width=\"840\" height=\"898\" srcset=\"https://www.ojsatn.or.th/wp-content/uploads/2022/10/memberapp.jpg 860w, https://www.ojsatn.or.th/wp-content/uploads/2022/10/memberapp-280x300.jpg 280w, https://www.ojsatn.or.th/wp-content/uploads/2022/10/memberapp-768x822.jpg 768w\" sizes=\"(max-width: 840px) 100vw, 840px\" /></a><figcaption class=\"wp-element-caption\">สมัครเป็นสมาชิกสมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ (ส.น.ญ.น.) เพื่อรับสิทธิเพื่อตัวท่านเองและครอบครัวมากมาย <br><strong>สิทธิพิเศษสำหรับสมาชิก ส.น.ญ.น.&nbsp;</strong><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>สามารถสมัครเป็นอาจารย์สอนภาษาญี่ปุ่น ล่าม และนักแปล ในสังกัด ส.น.ญ.น.</strong><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>เข้าร่วมกิจกรรมต่างๆ ของ ส.น.ญ.น.</strong><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>สวัสดิการต่างๆ ตามระเบียบของ ส.น.ญ.น.</strong><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ส่วนลดค่าเล่าเรียน เมื่อสมัครเรียนภาษา (เฉพาะสมาชิกและลูกหลานสายตรง)</strong><br>1. <a rel=\"noreferrer noopener\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfi2lSSyCb50DdIgwKS21vkAkOtt23pD9l1E5J30WYZmiLvAg/viewform\" target=\"_blank\">กรอกใบสมัครผ่าน Google Form</a> หรือ <a rel=\"noreferrer noopener\" href=\"http://www.ojsatn.or.th/wp-content/uploads/2022/10/membersubmit.pdf\" target=\"_blank\">ดาวน์โหลดใบสมัคร (.pdf)</a> พร้อมรูปถ่าย, สำเนาบัตรประชาชน และหลักฐานการศึกษา/อบรม/ดูงานในประเทศญี่ปุ่น<br>2. สมัครด้วยตนเองที่ สมาคมนักเรียนเก่าญี่ปุ่น ในพระบรมราชูปถัมภ์ สาขาภาคเหนือ<br>3/3 ถนนสามล้าน ตำบลพระสิงห์ อ.เมืองเชียงใหม่ จว.เชียงใหม่ 50200</figcaption></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>ข่าวประชาสัมพันธ์ จดหมายข่าวเดือนพฤษภาคม 2&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "om_disable_all_campaigns": false,
+      "_mi_skip_tracking": false
+    },
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/comments?post=2"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 24,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/2/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1035,
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/pages/2/revisions/1035"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.ojsatn.or.th/wp-json/wp/v2/media?parent=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
