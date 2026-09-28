@@ -191,3 +191,12 @@ div.channel .channel-value{color:var(--ink);font-size:16px}
 .contact-details.channels .channel-qr{font-size:13px;color:var(--muted)}.contact-details.channels .channel-qr:hover{color:var(--gold-dark)}
 .channel-icon,.channel-icon.facebook,.channel-icon.line,.channel-icon.clock{width:48px;height:48px;background:none;border:0;border-radius:0}
 .channel-icon svg,.channel-icon.line svg{width:48px;height:48px;display:block}
+
+/* Facebook page timeline embed (plugin is capped at 500px wide). */
+.fb-section{background:linear-gradient(115deg,var(--ivory),#f3f6fc);border-top:1px solid #e3d7b8}
+.fb-grid{display:grid;grid-template-columns:1fr 500px;gap:80px;align-items:center}
+.fb-grid h2{font-size:35px;line-height:1.55}.fb-grid>div>p{color:var(--muted);margin:20px 0 26px;font-size:16px}.fb-grid .fine{margin-top:18px;font-size:14px}
+.fb-frame{background:#fff;border:1px solid #e3d7b8;border-top:3px solid var(--gold);padding:10px;box-shadow:0 10px 28px #0c235012;min-height:662px}
+.fb-frame iframe{display:block;width:100%;max-width:500px;height:640px;border:0;margin:auto}
+@media(max-width:1000px){.fb-grid{grid-template-columns:1fr;gap:32px}.fb-frame{max-width:522px;width:100%;justify-self:center}.fb-grid h2 br{display:none}}
+@media(max-width:560px){.fb-grid h2{font-size:28px}.fb-frame{padding:6px;min-height:0}.fb-frame iframe{height:560px}}
