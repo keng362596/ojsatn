@@ -189,3 +189,5 @@ div.channel .channel-value{color:var(--ink);font-size:16px}
 .contact-details.channels .channel-value{font-size:17px}
 @media(max-width:560px){.contact-details.channels>.channel-row{flex-wrap:wrap}}
 .contact-details.channels .channel-qr{font-size:13px;color:var(--muted)}.contact-details.channels .channel-qr:hover{color:var(--gold-dark)}
+.channel-icon,.channel-icon.facebook,.channel-icon.line,.channel-icon.clock{width:48px;height:48px;background:none;border:0;border-radius:0}
+.channel-icon svg,.channel-icon.line svg{width:48px;height:48px;display:block}
