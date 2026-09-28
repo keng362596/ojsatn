@@ -60,7 +60,14 @@ def shell(path,title,body,active='',description=None):
     target=OUT/path;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(content,encoding='utf-8');generated.append(path)
 def heading(path,title,subtitle,kicker='สมาคมนักเรียนเก่าญี่ปุ่นฯ สาขาภาคเหนือ'):
     return f'<section class="page-head"><div class="wrap"><div class="crumb">{link(path,"index.html","หน้าแรก")} <span>/</span> {esc(title)}</div><span class="eyebrow">{kicker}</span><h1>{title}</h1><p>{subtitle}</p></div></section>'
-def cat(post):return next((CATS[x] for x in post['categories'] if x in CATS),'ข่าวสมาคม')
+def exam(post):
+    text=(post['slug']+' '+plain(post['title']['rendered'])).lower()
+    if 'eju' in text or 'พื้นฐานทางวิชาการ' in text or 'ศึกษาต่อ' in text:return 'การสอบ EJU'
+    if 'jslt' in text:return 'การสอบ JSLT'
+    return 'การสอบ JLPT'
+def cat(post):
+    if 3 in post['categories']:return exam(post)
+    return next((CATS[x] for x in post['categories'] if x in CATS),'ข่าวสมาคม')
 def title(post):
     overrides={1149:'ประกาศผลสอบ JLPT รอบเดือนธันวาคม 2568',1117:'กิจกรรม Workshop From Farm to Fork',1187:'ประกาศห้องสอบ JLPT ครั้งที่ 1/2026 ศูนย์สอบเชียงใหม่',1125:'ประกาศห้องสอบ JLPT ครั้งที่ 2/2025 ศูนย์สอบเชียงใหม่'}
     return overrides.get(post['id'],plain(post['title']['rendered']))
