@@ -200,3 +200,9 @@ div.channel .channel-value{color:var(--ink);font-size:16px}
 .fb-frame iframe{display:block;width:100%;max-width:500px;height:640px;border:0;margin:auto}
 @media(max-width:1000px){.fb-grid{grid-template-columns:1fr;gap:32px}.fb-frame{max-width:522px;width:100%;justify-self:center}.fb-grid h2 br{display:none}}
 @media(max-width:560px){.fb-grid h2{font-size:28px}.fb-frame{padding:6px;min-height:0}.fb-frame iframe{height:560px}}
+
+/* Faint gold Thai ornament (kranok) over the navy bands. */
+.topline,.contact-strip{position:relative;isolation:isolate;overflow:hidden}
+.topline:before,.contact-strip:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background:url('thai-pattern.png') center/auto 100% repeat-x}
+.topline:before{opacity:.16;background-size:auto 150%}
+.contact-strip:before{opacity:.1;background-size:auto 115%}
