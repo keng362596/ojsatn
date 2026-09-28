@@ -157,3 +157,10 @@ footer{background:var(--ivory);border-top:1px solid #e3d7b8}
 .org-vice:before{height:calc(var(--stem)/2)!important}
 @media(max-width:1100px){.org-vice:before{height:var(--stem)!important}}
 .org-chart{--stem:44px}@media(max-width:560px){.org-chart{--stem:28px}}
+
+/* Larger association emblem so its details are legible (logo aspect 403:778). */
+.logo{height:124px;width:auto;aspect-ratio:403/778}
+.identity{padding:18px 0}.brand{gap:22px}.brand strong{font-size:26px}.brand>span>span{font-size:15px}
+.footer-brand .logo{height:104px}
+@media(max-width:800px){.logo{height:96px;width:auto}.brand{gap:14px}.brand strong{font-size:22px}}
+@media(max-width:560px){.logo{height:80px;width:auto}.brand{gap:12px}.brand strong{font-size:18px}.footer-brand .logo{height:84px}}
