@@ -164,3 +164,28 @@ footer{background:var(--ivory);border-top:1px solid #e3d7b8}
 .footer-brand .logo{height:104px}
 @media(max-width:800px){.logo{height:96px;width:auto}.brand{gap:14px}.brand strong{font-size:22px}}
 @media(max-width:560px){.logo{height:80px;width:auto}.brand{gap:12px}.brand strong{font-size:18px}.footer-brand .logo{height:84px}}
+
+/* Contact channels: tappable rows with brand icons; LINE row carries its QR code. */
+.channels{padding:8px 26px}
+.channel-row{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:16px 0;border-bottom:1px solid #ebe2cc}
+.channel-row:last-child{border-bottom:0}
+.channel{display:flex;align-items:center;gap:16px;min-width:0;flex:1;padding:4px 0;border-radius:4px}
+a.channel:hover .channel-value{color:var(--gold-dark);text-decoration:underline;text-underline-offset:5px}
+a.channel:hover .channel-icon{transform:translateY(-2px)}
+.channel-icon{width:48px;height:48px;border-radius:50%;display:grid;place-items:center;flex-shrink:0;color:#fff;background:var(--primary-dark);transition:transform .2s}
+.channel-icon svg{width:26px;height:26px}
+.channel-icon.facebook{background:#1877f2}.channel-icon.line{background:#06c755}.channel-icon.line svg{width:30px;height:30px}
+.channel-icon.clock{background:var(--gold-soft);color:var(--gold-dark);border:1px solid var(--gold-light)}
+.channel-text{display:flex;flex-direction:column;min-width:0}
+.channel-label{font-size:14px;font-weight:600;color:var(--gold-dark)}
+.channel-value{font-size:17px;color:var(--primary);line-height:1.7}
+div.channel .channel-value{color:var(--ink);font-size:16px}
+.channel-qr{display:flex;flex-direction:column;align-items:center;gap:6px;flex-shrink:0;font-size:13px;color:var(--muted)}
+.channel-qr .line-qr{width:132px;height:132px;padding:8px;background:#fff;border:1px solid var(--gold-light)}
+.channel-qr:hover span{color:var(--gold-dark)}
+@media(max-width:560px){.channels{padding:4px 18px}.channel-row{flex-wrap:wrap}.channel-qr{width:100%}.channel-qr .line-qr{width:180px;height:180px}}
+.contact-details.channels>.channel-row{flex-direction:row;align-items:center;justify-content:space-between;gap:20px;padding:18px 0}
+.contact-details.channels .channel{font-size:inherit;text-align:left}
+.contact-details.channels .channel-value{font-size:17px}
+@media(max-width:560px){.contact-details.channels>.channel-row{flex-wrap:wrap}}
+.contact-details.channels .channel-qr{font-size:13px;color:var(--muted)}.contact-details.channels .channel-qr:hover{color:var(--gold-dark)}
