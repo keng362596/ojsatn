@@ -152,3 +152,8 @@ footer{background:var(--ivory);border-top:1px solid #e3d7b8}
 @media(max-width:1100px){.org-board .person{flex-basis:calc((100% - 2*var(--gap))/3)}}
 @media(max-width:800px){.org-board .person{flex-basis:calc((100% - var(--gap))/2)}}
 @media(max-width:560px){.org-board .person{flex-basis:100%}.org-chart .person h3 span{white-space:normal}}
+.org-tier+.org-tier{margin-top:var(--stem)}
+.org-tier+.org-tier:before{top:calc(var(--stem)*-1);height:var(--stem)}
+.org-vice:before{height:calc(var(--stem)/2)!important}
+@media(max-width:1100px){.org-vice:before{height:var(--stem)!important}}
+.org-chart{--stem:44px}@media(max-width:560px){.org-chart{--stem:28px}}

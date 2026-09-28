@@ -171,7 +171,7 @@ def committee():
     lead=[x for x in COMMITTEE if x[1]=='ประธาน'];vice=[x for x in COMMITTEE if x[1].startswith('รองประธาน')]
     board=sorted([x for x in COMMITTEE if x not in lead+vice],key=lambda x:not x[1].startswith('เลขาธิการ'))
     tier=lambda label,cls,people,extra='':f'<div class="org-tier {cls}">{f"<span class=org-label>{label}</span>" if label else ""}<div class="org-row">{"".join(person(n,r,extra) for n,r in people)}</div></div>'
-    entries=tier('','org-lead',lead,' person-lead')+tier(f'รองประธาน {len(vice)} ท่าน','org-vice',vice)+tier(f'เลขาธิการและกรรมการบริหาร {len(board)} ท่าน','org-board',board)
+    entries=tier('','org-lead',lead,' person-lead')+tier('','org-vice',vice)+tier('','org-board',board)
     body=heading(p,'คณะกรรมการบริหาร','ร่วมขับเคลื่อนสมาคม เชื่อมโยงสมาชิก และสานสัมพันธ์ไทย–ญี่ปุ่น')+f'<section class="section"><div class="wrap"><div class="section-title"><div><span class="eyebrow">คณะกรรมการชุดปัจจุบัน</span><h2>ผู้ร่วมดูแลบ้านแห่งมิตรภาพ</h2></div><span class="count-badge">15 ท่าน</span></div><div class="org-chart">{entries}</div><details class="history-full"><summary>รายนามคณะกรรมการวาระก่อนหน้า (เรียงจากวาระล่าสุด)</summary><div class="prose">{old}</div></details></div></section>'
     shell(p,'คณะกรรมการบริหาร',body,'about')
 def school():
